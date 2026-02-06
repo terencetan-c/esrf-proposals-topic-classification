@@ -1,4 +1,7 @@
-# File that implements flask server
+# This file was created by the OpenAlex team to implement a flask server. 
+# I have commented out the flask parts so that the code can be run without setting up a server, but the flask code is still there if you want to set up a server. 
+# The code is also structured in a way that allows you to use the functions in this file without setting up a server, so you can use it as a script if you want to.
+
 import os
 # import flask
 import pickle
@@ -16,7 +19,7 @@ from sentence_transformers import SentenceTransformer
 import re
 
 # Define the path
-prefix = '/Users/fdp54928/Documents/openalex-topic-classification/model/'
+prefix = '{insert pathname to model artifacts}'     # <--- INSERT YOUR PATHNAME HERE
 model_path = os.path.join(prefix, 'topic_classifier_v1_artifacts')
 
 # Load the needed files

@@ -1,0 +1,1266 @@
+Number	ESRF25KO101
+Author	Komarova T.Yu., Zinn T., Narayanan T., Petukhov A.V., Landman J.
+Title	Microtube self-assembly leads to conformational freezing point depression
+Journal title	Journal of Colloid and Interface Science
+Volume	677
+Pages	781-789
+Year	2025
+DOI	10.1016/j.jcis.2024.08.003
+Keywords	HIERARCHICAL SELF-ASSEMBLY
+, CRYSTALLINE MEMBRANE
+, MEMBRANE BENDING
+Abstract	Hypothesis. Multi-walled tubular aggregates formed by hierarchical self-assembly of beta-cyclodextrin (β-CD) and sodium dodecylsulfate (SDS) hold a great potential as microcarriers. However, the underlying mechanism for this self-assembly is not well understood. To advance the application of these structures, it is essential to fine-tune the cavity size and comprehensively elucidate the energetic balance driving their formation: the bending modulus versus the microscopic line tension.
+Experiments. We investigated temperature-induced changes in the hierarchical tubular aggregates using synchrotron small-angle X-ray scattering across a broad concentration range. Detailed analysis of the scattering patterns enabled us to determine the structural parameters of the microtubes and to construct a phase diagram of the system.
+Findings. The microtubes grow from the outside in and melt from the inside out. We relate derived structural parameters to enthalpic changes driving the self-assembly process on the molecular level in terms of their bending modulus and microscopic line tension. We find that the conformation of the crystalline bilayer affects the saturation concentration, providing an example of a phenomenon we call conformational freezing point depression. Inspired by the colligative phenomenon of freezing point depression, well known from undergraduate physics, we model this system by including the membrane conformation, which can describe the energetics of this hierarchical system and give access to microscopic properties without free parameters.
+-
+Number	ESRF25MA1001
+Author	Magalhaes M.D., Douillard T., Reveron H., Comby-Dassonneville S., Cornelius T.W., Meille S., Texier M., Micha J.S., Rodney D., Thomas O., Chevalier J.
+Title	In-situ Laue micro-diffraction during compression tests on Ce-TZP single crystal micropillars
+Journal title	Journal of the European Ceramic Society
+Volume	45
+Pages	116794-1-116794-9
+Year	2025
+DOI	10.1016/j.jeurceramsoc.2024.116794
+-
+Number	ESRF24AB1199
+Author	Abdala P., Müller C.
+Title	Uncovering atomic-scale dynamics in solid catalysts via X-ray-based methods
+Journal title	Chimia
+Volume	78
+Pages	297-303
+Year	2024
+DOI	10.2533/chimia.2024.297
+Abstract	Deciphering the structural intricacies of catalysts is essential to advance their atomic-scale engineering. Solid catalysts are complex, with structural features spanning multiple length scales and involving dynamics, which possess challenges in understanding structure-performance relationships. However, advanced operando X-ray characterization techniques, including X-ray absorption spectroscopy (XAS), diffraction (XRD), and pair distribution function analysis (PDF) allow elucidation of structural features under working conditions, discovering transitions from supported nanocrystals to dispersed sites, from solid solutions to supported nanoparticles, or structural changes at the local level. In this mini-review, we discuss case studies exploring the structure of catalysts over different lengths and time scales under different applications, such as CO2 hydrogenation to methanol or the dry reforming of methane, using a combination of operando XAS, XRD and PDF.
+-
+Number	ESRF24AB1325
+Author	Abdelhafiz A., Mohammed M.H., Abed J., Lee D.C.., Chen M., Helal A.S., Ren Z., Alamgir F., Sargent E., Kohl P.A., Elsaidi S.K., Li J.
+Title	Tri-metallic catalyst for oxygen evolution reaction enables continuous operation of anion exchange membrane electrolyzer at 1A cm-2 for hundreds of hours
+Journal title	Advanced Energy Materials
+Volume	14
+Pages	2303350-1-2303350-11
+Year	2024
+DOI	10.1002/aenm.202303350
+Keywords	ELECTROLYZER FULL CELL
+, IN SITU CHARACTERIZATION
+, METAL-ORGANIC FRAMEWORKS
+, MULTI-METAL CATALYST
+, OXYGEN EVOLUTION REACTION
+, WATER ELECTROLYSIS
+, ELECTROCATALYSTS
+, REDUCTION
+, GRAPHENE
+, SUPPORT
+, OXIDES
+, STRAIN
+Abstract	Although numerous efforts are made to synthesize active electrocatalysts for green hydrogen production; catalyst stability, and facile synthesis to scale up the production are still challenging. Herein, the production of novel non-PGM catalysts for the oxygen reduction reaction (OER) in an alkaline aqueous medium is reported, which is based on the synthesis of a trimetallic metal-organic framework (MOF) precursors. Fine-tuning of the composition of the metal centers (Ni, Co, and Fe) shows a great effect on OER activity after the MOF undergoes dynamic chemical and structural transformations under OER conditions. In situ characterization reveals the origin of OER activity enhancement as metals' oxidation state increases, inducing compressive mechanical strain on metal centers, enhancing the electronic conductivity through the formation of oxygen vacancies, and stronger metal-oxygen covalency. Catalysts are used in membrane electrode assembly (MEA) setup within an industrial full-cell anion exchange membrane electrolyzer (AEMEC), showing a stable performance for 550 h without noticeable decay at 750 and 1000 mA cm(-2) industrial level current densities.
+-
+Number	ESRF24AB1291
+Author	Abou Nakad J., Szeto K.C., de Mallmann A., Li L., Scott S.L., Delevoye L., Gauvin R.M., Taoufik M.
+Title	Non-oxidative propane dehydrogenation by a well-defined Ga catalyst prepared by surface organometallic chemistry
+Journal title	ACS Catalysis
+Volume	14
+Pages	8631-8639
+Year	2024
+DOI	10.1021/acscatal.4c01118
+-
+Number	ESRF24AB6016
+Author	Abramov A., Broggi G., Bruce R., Carlier F., Hofer M., Iadarola G., Nevay L.J., Pieloni T., Rakic M., Redaelli S., White S.M.
+Title	Collimation simulations for the FCC-ee
+Journal title	Journal of Instrumentation
+Volume	19
+Pages	T02004-1-T02004-14
+Year	2024
+DOI	10.1088/1748-0221/19/02/T02004
+Abstract	The collimation system of the Future Circular Collider, operating with leptons (FCC-ee), must protect not only the experiments against backgrounds, but also the machine itself from beam losses. With a 17.8 MJ stored energy of the electron and positron beams, they are highly destructive, and beam losses risk to cause damage or a quench of superconducting elements. Accurate collimation simulation tools and models are needed to design the collimation system and optimize the collimation performance, including magnetic tracking, synchrotron radiation and optics tapering, as well as particle-matter interactions. As no existing code was found that incorporated all these features, a new simulation software tool has been developed. The tool is based on an interface between a particle tracking engine, pyAT or Xtrack, and a Monte-Carlo particle-matter interaction engine for collimator scattering, BDSIM, which is based on Geant4. Results from a simulation of edge scattering from a beam halo collimator in the FCC-ee are presented to demonstrate the capabilities of the tool.
+-
+Number	ESRF24AC6028
+Author	Acosta-Slane D., González-Franco A.C., Hérnandez-Huerta J., Castillo-Michel H., Reyes-Herrera J., Sánchez-Chávez E., Valles-Aragón M.C.
+Title	Titanium dioxide nanoparticles (TiO2-NPs) effect on germination and morphological parameters in alfalfa, tomato, and pepper
+Journal title	Notulae Botanicae Horti Agrobotanici Cluj-Napoca
+Volume	52
+Pages	13634-1-13634-15
+Year	2024
+DOI	10.15835/nbha52213634
+Abstract	Titanium dioxide nanoparticles are used in different processes, derived from this their presence in wastewater is common, concentrating in residual sludge. These residues are used as agricultural soil improvers, being a source of crop exposure. In this study, the effect of TiO2-NPs (450, 900, and 1800 mg L-1) on the germination of alfalfa, tomato, and pepper seeds was evaluated. The germination parameters were not different (p > 0.05) except for, the seed vigor index in alfalfa and pepper, and the mean germination time in tomato. The germination index was below 80% in 450 mg L-1 in tomato, which showed moderate phytotoxicity. Morphological modifications with differences (p < 0.05) were found in the three crops, mainly in the root. In tomatoes, the length of the main root, root hairs, and the width of the root tip were reduced but increased the width of the main root, piliferous zone, and the length of root hairs were. For alfalfa, root length and number of secondary roots augment. However, the stem, root tip width, and root villi were reduced. Finally, for pepper, the length, and width of the root and the piliferous zone were modified. Additionally, a concerning trend has been observed in the length of root hairs. TiO2-NPs affected germination and morphology in alfalfa, tomato and pepper seeds differently. Tomato was most negatively affected, with reduced root length and width. Alfalfa showed mixed effects, with positive impacts on some parameters but negatives on others. Pepper seeds responded positively overall, with improved germination and root length, despite some impacts on root morphology.
+-
+Number	ESRF24AD472
+Author	Adler P., Medvedev S.A., Mu Q., Bessas D., Chumakov A., Yaroslavtsev S., Jansen M., Felser C.
+Title	Electronic and magnetic phase diagram of Sr2FeO4 at high pressure: A synchrotron Mössbauer study
+Journal title	Physical Review B
+Volume	110
+Pages	054444-1-054444-12
+Year	2024
+DOI	10.1103/PhysRevB.110.054444
+-
+Number	ESRF24AG344
+Author	Agafonov A., Pineda-Romero N., Witman M., Nassif V., Vaughan G.B.M., Lei L., Ling S., Grant D.M., Dornheim M., Allendorf M., Stavila V., Zlotea C.
+Title	Destabilizing high-capacity high entropy hydrides via earth abundant substitutions: From predictions to experimental validation
+Journal title	Acta Materialia
+Volume	276
+Pages	120086-1-120086-10
+Year	2024
+DOI	10.1016/j.actamat.2024.120086
+Abstract	The vast chemical space of high entropy alloys (HEAs) makes trial-and-error experimental approaches for materials discovery intractable and often necessitates data-driven and/or first principles computational insights to successfully target materials with desired properties. In the context of materials discovery for hydrogen storage applications, a theoretical prediction-experimental validation approach can vastly accelerate the search for substitution strategies to destabilize high-capacity hydrides based on benchmark HEAs, e.g. TiVNbCr alloys. Here, machine learning predictions, corroborated by density functional theory calculations, predict substantial hydride destabilization with increasing substitution of earth-abundant Fe content in the (TiVNb)75Cr25-xFex system. The as-prepared alloys crystallize in a single-phase bcc lattice for limited Fe content x < 7, while larger Fe content favors the formation of a secondary C14 Laves phase intermetallic. Short range order for alloys with x < 7 can be well described by a random distribution of atoms within the bcc lattice without lattice distortion. Hydrogen absorption experiments performed on selected alloys validate the predicted thermodynamic destabilization of the corresponding fcc hydrides and demonstrate promising lifecycle performance through reversible absorption/desorption. This demonstrates the potential of computationally expedited hydride discovery and points to further opportunities for optimizing bcc alloy <-> fcc hydrides for practical hydrogen storage applications.
+-
+Number	ESRF24AG388
+Author	Agrestini S., Borgatti F., Florio P., Frassineti J., Fiore Mosca D., Faure Q., Detlefs B., Sahle C.J., Francoual S., Choi J., García-Fernández M., Zhou K.J., Mitrovic V. F., Woodward P.M., Ghiringhelli G., Franchini C., Boscherini F., Sanna S., Moretti Sala M.
+Title	Origin of magnetism in a supposedly nonmagnetic osmium oxide
+Journal title	Physical Review Letters
+Volume	133
+Pages	066501-1-066501-7
+Year	2024
+DOI	10.1103/PhysRevLett.133.066501
+Abstract	A supposedly nonmagnetic 5d1 double perovskite oxide is investigated by a combination of spectroscopic and theoretical methods, namely, resonant inelastic x-ray scattering, x-ray absorption spectroscopy, magnetic circular dichroism, and multiplet ligand-field calculations. We found that the large spin-orbit coupling admixes the 5d t2g and eg orbitals, covalency raises the 5d population well above the nominal value, and the local symmetry is lower than 0h. The obtained electronic interactions account for the finite magnetic moment of Os in this compound and, in general, of 5d1 ions. Our results provide direct evidence of elusive Jahn-Teller distortions, hinting at a strong electron-lattice coupling.
+-
+Number	ESRF24AH1175
+Author	Ahmad N., Sharma P., Sharma S., Singh T.P.
+Title	Structure of a novel form of phosphopantetheine adenylyltransferase from Klebsiella pneumoniae at 2.59 Å resolution
+Journal title	European Biophysics Journal
+Volume	53
+Pages	147-157
+Year	2024
+DOI	10.1007/s00249-024-01703-1
+-
+Number	ESRF24AK362
+Author	Akbar F., Aslandukova A., Yin Y., Aslandukov A., Laniel D., Bykova E., Bykov M., Lawrence Bright E., Wright J., Comboni D., Hanfland M., Dubrovinskaia N., Dubrovinsky L.
+Title	High-pressure dysprosium carbides containing carbon dimers, trimers, chains, and ribbons
+Journal title	Carbon
+Volume	228
+Pages	119374-1-119374-8
+Year	2024
+DOI	10.1016/j.carbon.2024.119374
+Abstract	Exploring the chemistry of materials at high pressure leads to discoveries of previously unknown compounds and phenomena. Here chemical reactions between elemental dysprosium and carbon were studied in laser-heated diamond anvil cells at pressures up to 95 GPa and temperatures of ∼2800 K. In situ single-crystal synchrotron X-ray diffraction (SCXRD) analysis of the reaction products revealed the formation of novel dysprosium carbides, γ-DyC2, Dy5C9, and γ-Dy4C5, along with previously reported Dy3C2 and Dy4C3. The crystal structures of γ-DyC2 and Dy5C9 feature infinite flat carbon polyacene-like ribbons and cis-polyacetylene-type chains, respectively. In the structure of γ-Dy4C5, carbon atoms form dimers and non-linear trimers. Dy3C2 contains ethanide-type carbon dumbbells, and Dy4C3 is methanide featuring single carbon atoms. Density functional theory calculations reproduce well the crystal structures of high-pressure dysprosium carbides and reveal conjugated π-electron systems in novel infinite carbon polyanions. This work demonstrates that complex carbon homoatomic species previously unknown in organic chemistry can be synthesized at high pressures by direct reactions of carbon with metals.
+-
+Number	ESRF24AK1393
+Author	Akparov V.K., Konstantinova G.E., Timofeev V.I., Shevtsov M.B., Kuranova I.P.
+Title	Structure of carboxypeptidase T from thermoactinomyces vulgaris in complex with L-phenyl lactate
+Journal title	Crystallography Reports
+Volume	69
+Pages	318-323
+Year	2024
+DOI	10.1134/S1063774524600315
+Abstract	The crystal structure of metallocarboxypeptidase T (CPT) from Thermoactinomyces vulgaris in complex with L-phenyl lactate was determined at 1.73 Å resolution. As opposed to pancreatic carboxypeptidase A, which binds one L-phenyl lactate molecule, the ligand in the complex with CPT occupies simultaneously the S1 and S' subsites of the active site. This leads to conformational changes, which differ from those caused by the alternating occupation of the S1 and S1' subsites by tert-butyloxycarbonyl-L-leucine (BOC-leucine) and benzylsuccinic acid. These changes concern the residues E277, E59, L254, G192, S127, and Y218 and are up to 0.77 Å. A conclusion was drawn about the possible role of the residue E59 in the substrate recognition and catalysis by carboxypeptidase Т.
+-
+Number	ESRF24AL1317
+Author	Alberti M., Poli G., Broggini L., Sainas S., Rizzi M., Boschi D., Ferraris D.M., Martino E., Ricagno S., Tuccinardi T., Lolli M.L., Miggiano R.
+Title	An alternative conformation of the N-terminal loop of human dihydroorotate dehydrogenase drives binding to a potent antiproliferative agent
+Journal title	Acta Crystallographica D
+Volume	80
+Pages	386-396
+Year	2024
+DOI	10.1107/S2059798324004066
+Abstract	Over the years, human dihydroorotate dehydrogenase (hDHODH), which is a key player in the de novo pyrimidine-biosynthesis pathway, has been targeted in the treatment of several conditions, including autoimmune disorders and acute myelogenous leukaemia, as well as in host-targeted antiviral therapy. A molecular exploration of its inhibitor-binding behaviours yielded promising candidates for innovative drug design. A detailed description of the enzymatic pharmacophore drove the decoration of well-established inhibitory scaffolds, thus gaining further in vitro and in vivo efficacy. In the present work, using X-ray crystallography, an atypical rearrangement was identified in the binding pose of a potent inhibitor characterized by a polar pyridine-based moiety (compound 18). The crystal structure shows that upon binding compound 18 the dynamics of a protein loop involved in a gating mechanism at the cofactor-binding site is modulated by the presence of three water molecules, thus fine-tuning the polarity/hydrophobicity of the binding pocket. These solvent molecules are engaged in the formation of a hydrogen-bond mesh in which one of them establishes a direct contact with the pyridine moiety of compound 18, thus paving the way for a reappraisal of the inhibition of hDHODH. Using an integrated approach, the thermodynamics of such a modulation is described by means of isothermal titration calorimetry coupled with molecular modelling. These structural insights will guide future drug design to obtain a finer Kd/logD7.4 balance and identify membrane-permeable molecules with a drug-like profile in terms of water solubility.
+-
+Number	ESRF24AL250
+Author	Albertini P.P., Newton M.A., Wang M., Segura Lecina O., Green P.B., Stoian D.C., Oveisi E., Loiudice A., Buonsanti R.
+Title	Hybrid oxide coatings generate stable Cu catalysts for CO2 electroreduction
+Journal title	Nature Materials
+Volume	23
+Pages	680-687
+Year	2024
+DOI	10.1038/s41563-024-01819-x
+Abstract	Hybrid organic/inorganic materials have contributed to solve important challenges in different areas of science. One of the biggest challenges for a more sustainable society is to have active and stable catalysts that enable the transition from fossil fuel to renewable feedstocks, reduce energy consumption and minimize the environmental footprint. Here we synthesize novel hybrid materials where an amorphous oxide coating with embedded organic ligands surrounds metallic nanocrystals. We demonstrate that the hybrid coating is a powerful means to create electrocatalysts stable against structural reconstruction during the CO2 electroreduction. These electrocatalysts consist of copper nanocrystals encapsulated in a hybrid organic/inorganic alumina shell. This shell locks a fraction of the copper surface into a reduction-resistant Cu2+ state, which inhibits those redox processes responsible for the structural reconstruction of copper. The electrocatalyst activity is preserved, which would not be possible with a conventional dense alumina coating. Varying the shell thickness and the coating morphology yields fundamental insights into the stabilization mechanism and emphasizes the importance of the Lewis acidity of the shell in relation to the retention of catalyst structure. The synthetic tunability of the chemistry developed herein opens new avenues for the design of stable electrocatalysts and beyond.
+-
+Number	ESRF24AL1048
+Author	Alekseeva O.A., Naberezhnov A.A., Koroleva E.Y., Fokin A.V.
+Title	The role of thermal vibrations in transformation of structure transition for sodium nitrate in a restricted geometry
+Journal title	Physica E
+Volume	156
+Pages	115855-1-115855-6
+Year	2024
+DOI	10.1016/j.physe.2023.115855
+Abstract	The temperature evolution of the crystal structure and dielectric response of a nanocomposite based on porous glasses with an average pore diameter of 7 nm and embedded sodium nitrate in the temperature range of 300–600 K have been studied on heating. The temperature dependences of the amplitudes of thermal vibrations of ions in sodium nitrate nanoparticles are obtained, and the activation energies of sodium hopping conductivity in these nanocomposite materials are determined. The results obtained allow us to state that it is the sharp increase in thermal vibrations that leads to the appearance of the previously observed crossover in the temperature dependence of the order parameter of the structural transition in sodium nitrate nanoparticles at T* ∼455 K and to a decrease in the activation energy of sodium ions hopping conductivity on heating above T*.
+-
+Number	ESRF24AL1270
+Author	Aliouat M.Y., Cristiano F., Abbassi L., Escoubas S., Mesnilgrente F., Salvagnac L., Sámal M., Rybácek J., Sturm L., Gourdon A., Jancarik A., Séguy I.
+Title	β-Disubstituted pentacene derivatives: thin film structural properties and four-probe field effect mobility
+Journal title	ChemPlusChem
+Volume	89
+Pages	e202300611-1-e202300611-11
+Year	2024
+DOI	10.1002/cplu.202300611
+Keywords	ACENES
+, CHARGE MOBILITY
+, NANOSTRUCTURES
+, ORGANIC ELECTRONICS
+, ORGANIC
+, FIELD EFFECT TRANSISTORS
+, TRANSPORT-PROPERTIES
+, HIGH-PERFORMANCE
+, (null)
+, SINGLET
+, FISSION
+, TRANSISTORS
+, HEXACENE
+, (null)
+Abstract	2,9- and 2,10-diphenylpentacene were synthesized by direct C-H borylation of ketal-protected pentacene, followed by halodeboronation, resolution of the dihalo isomers, Suzuki arylation, cleavage of the ketals and decarbonylation in the solid state. They were studied as main active components in organic field effect transistors (OFETs). Diphenyl substitution of pentacene affects the unit cell dimensions only slightly, preserving a face to edge molecular packing in the first layers of thin films evaporated on SiO2 substrates. Both isomers self-assemble into nanoribbons during the thin film growth upon vapor deposition. The similarity between the surface induced phases of the 2,9-isomer and unsubstituted pentacene leads to similar 4-probe hole mobilities, i. e. 0.13 cm2 V-1 s-1 for the former. Whereas 2,9-disubstitution thus does essentially preserve the thin film characteristics of unsubstituted pentacene, 2,10-disubstitution is detrimental to the molecular ordering in the thin films and therefore to the field effect mobility which is only 0.07 cm2 V-1 s-1. The known strong enhancement of field effect mobility observed upon diphenyl substitution of anthracene can thus not be emulated analogously with pentacene. Exploring morphological structures of new beta-Disubstituted pentacene derivatives: TEM optical micrographs and AFM topographies unveil the impact of chemical structure on 4-probe field effect hole mobilities.image
+-
+Number	ESRF24AL1304
+Author	Allieta M., Coduri M., Naldoni A.
+Title	Black TiO2 and oxygen vacancies: Unraveling the role in the thermal anatase-to-rutile transformation
+Journal title	Applied Nano
+Volume	5
+Pages	72-83
+Year	2024
+DOI	10.3390/applnano5020007
+Abstract	Understanding the role of oxygen vacancies in the phase transformation of metal oxide nanomaterials is fundamental to design more efficient opto-electronic devices for a variety of applications, including sensing, spintronics, photocatalysis, and photo-electrochemistry. However, the structural mechanisms behind the phase transformation in reducible oxides remain poorly described. Here, we compare P25 and black TiO2 during the thermal anatase-to-rutile transformation using in situ synchrotron powder diffraction. The precise measurement of the phase fractions, unit cell parameters, and Ti-O bond sheds light on the phase transformation dynamics. Notably, we observe distinct temperature-dependent shifts in the relative phase fractions of anatase and rutile in both materials highlighting the role of the oxygen vacancy in promoting the phase transformation. We employ bond valence concepts for structural modeling, revealing unique trends in temperature evolution of Ti-O distances of black rutile, confirming that this TiO2 phase is preferentially reduced over anatase. These findings not only enhance our understanding of phase transitions in TiO2 but also open new ways for the design of advanced photocatalytic materials through targeted phase control.
+-
+Number	ESRF24AL1507
+Author	Almeida D.V., Ciancaglini I., Hernandes Sandano A.L., Roman E.K.B., Brito Andrade V., Nunes A.B., Tramontina R., da Silva V.M., Gabel F., Corrêa T.L.R., Damasio A., Muniz J.R.C., Squina F.M., Garcia W.
+Title	Unveiling the crystal structure of thermostable dienelactone hydrolase exhibiting activity on terephthalate esters
+Journal title	Enzyme and Microbial Technology
+Volume	180
+Pages	110498-1-110498-10
+Year	2024
+DOI	10.1016/j.enzmictec.2024.110498
+Abstract	Dienelactone hydrolase (DLH) is one of numerous hydrolytic enzymes with an α/β-hydrolase fold, which catalyze the hydrolysis of dienelactone to maleylacetate. The DLHs share remarkably similar tertiary structures and a conserved arrangement of catalytic residues. This study presents the crystal structure and comprehensive functional characterization of a novel thermostable DLH from the bacterium Hydrogenobacter thermophilus (HtDLH). The crystal structure of the HtDLH, solved at a resolution of about 1.67 Å, exhibits a canonical α/β-hydrolase fold formed by eight β-sheet strands in the core, with one buried α-helix and six others exposed to the solvent. The structure also confirmed the conserved catalytic triad of DHLs formed by Cys121, Asp170, and His202 residues. The HtDLH forms stable homodimers in solution. Functional studies showed that HtDLH has the expected esterase activity over esters with short carbon chains, such as p-nitrophenyl acetate, reaching optimal activity at pH 7.5 and 70 °C. Furthermore, HtDLH maintains more than 50 % of its activity even after incubation at 90 °C for 16 h. Interestingly, HtDLH exhibits catalytic activity towards polyethylene terephthalate (PET) monomers, including bis-1,2-hydroxyethyl terephthalate (BHET) and 1-(2-hydroxyethyl) 4-methyl terephthalate, as well as other aliphatic and aromatic esters. These findings associated with the lack of activity on amorphous PET indicate that HtDLH has characteristic of a BHET-degrading enzyme. This work expands our understanding of enzyme families involved in PET degradation, providing novel insights for plastic biorecycling through protein engineering, which could lead to eco-friendly solutions to reduce the accumulation of plastic in landfills and natural environments.
+-
+Number	ESRF24AM1024
+Author	Amedewovo L., Orgéas L., de Parscau du Plessix B., Lefèvre N., Levy A., Le Corre S.
+Title	Deconsolidation of carbon fiber-reinforced PEKK laminates: 3D real-time in situ observation with synchrotron X-ray microtomography
+Journal title	Composites Part A
+Volume	177
+Pages	107917-1-107917-15
+Year	2024
+DOI	10.1016/j.compositesa.2023.107917
+Keywords	PHASE CONTRAST
+, PHASE CONTRAST MICROTOMOGRAPHY
+, IN SITU AND REAL-TIME 3D MICROTOMOGRAPHY
+, IN SITU
+, IN SITU CHARACTERIZATION
+, MATERIALS
+, MATERIALS DEFORMATION
+, MATERIALS RESEARCH
+Abstract	Deconsolidation of carbon-fibre reinforced thermoplastic laminate occurs while (pre)heating the materials during their forming processes. Pores nucleate, grow and lead to degradations of mechanical properties. Here, a new experimental device was developed and installed inside a synchrotron beamline (dedicated to fast X-ray microtomography). Pore nucleation and growth was observed in 3D, real-time and in situ while heating Carbon/PEKK laminate samples. The time evolution of sample deconsolidation strain, porosity, as well as number, size and morphology of pores was assessed. Nucleation and growth is observed above the glass transition temperature and enhanced with initial moisture content. Drastic deconsolidation when approaching melting temperature is thought to be driven by internal stress in the laminate. The data provided may be used as input for modeling purposes or for validation of existing models.
+-
+Number	ESRF24AM1546
+Author	Amjadi R., Werten S., Lomada S., Baldin C., Scheffzek K., Dunzendorfer-Matt T., Wieland T.
+Title	Mechanistic insights into substrate recognition of human nucleoside diphosphate kinase C based on nucleotide-induced structural changes
+Journal title	International Journal of Molecular Sciences
+Volume	25
+Pages	9768-1-9768-19
+Year	2024
+DOI	10.3390/ijms25189768
+Abstract	Nucleoside diphosphate kinases (NDPKs) are encoded by nme genes and exist in various isoforms. Based on interactions with other proteins, they are involved in signal transduction, development and pathological processes such as tumorigenesis, metastasis and heart failure. In this study, we report a 1.25 Å resolution structure of human homohexameric NDPK-C bound to ADP and describe the yet unknown complexes formed with GDP, UDP and cAMP, all obtained at a high resolution via X-ray crystallography. Each nucleotide represents a distinct group of mono- or diphosphate purine or pyrimidine bases. We analyzed different NDPK-C nucleotide complexes in the presence and absence of Mg2+ and explain how this ion plays an essential role in NDPKs’ phosphotransferase activity. By analyzing a nucleotide-depleted NDPK-C structure, we detected conformational changes upon substrate binding and identify flexible regions in the substrate binding site. A comparison of NDPK-C with other human isoforms revealed a strong similarity in the overall composition with regard to the 3D structure, but significant differences in the charge and hydrophobicity of the isoforms’ surfaces. This may play a role in isoform-specific NDPK interactions with ligands and/or important complex partners like other NDPK isoforms, as well as monomeric and heterotrimeric G proteins. Considering the recently discovered role of NDPK-C in different pathologies, these high-resolution structures thus might provide a basis for interaction studies with other proteins or small ligands, like activators or inhibitors.
+-
+Number	ESRF24AM243
+Author	Amorín H., Venet M., García J.E., Ochoa D.A., Ramos P., López-Sánchez J., Rubio-Zuazo J., Castro A., Algueró M.
+Title	Insights into the Early Size Effects of Lead‐Free Piezoelectric Ba0.85Ca0.15Zr0.1Ti0.9O3
+Journal title	Advanced Electronic Materials
+Volume	10
+Pages	2300556-1-2300556-12
+Year	2024
+DOI	10.1002/aelm.202300556
+Keywords	PIEZOELECTRICS
+, PIEZOCERAMICS
+, PEROVSKITE OXIDES
+, SIZE EFFECT
+Abstract	Ba0.85Ca0.15Zr0.1Ti0.9O3 (BCZT) stands out among lead-free ferroelectric oxides under consideration to replace state-of-the-art high-sensitivity piezoelectric Pb(Zr,Ti)O3, for a range of energy conversion ceramic technologies. However, the best performances have been reported for very coarse-grained materials, and attempts to refine microstructure below 10 µm grain size consistently result in significant property degradation. Here a comprehensive study of the grain size effects on the properties of BCZT across the micron scale is reported, down to the verge of the submicron one. Results show a distinctive early evolution of properties for grain sizes between 1 and 5 µm. For the larger sizes in this range, an opposite effect is found for the piezoelectric charge coefficient and electric field-induced strain with respect to the very coarse-grained material, while very good overall performance is maintained. For the lower sizes, relaxor features appear, yet materials can still be poled indicating their ferroelectric nature. This strongly resembles size effects in the Pb(Mg1/3Nb2/3)O3-PbTiO3 system, driven by the slowing down of the relaxor to ferroelectric transition with size reduction, though kinetics seem to slow down across much larger grain sizes for BCZT. Concomitant changes in the polymorphic phase coexistence are described and discussed by synchrotron X-ray diffraction.
+-
+Number	ESRF24AM1080
+Author	Amthor S., Ranu K., Bellido C.G., Salomón F.F., Piccioni A., Mazzaro R., Boscherini F., Pasquini L., Gil-Sepulcre M., Llobet A.
+Title	Robust molecular anodes for electrocatalytic water oxidation based on electropolymerized molecular Cu complexes
+Journal title	Advanced Materials
+Volume	36
+Pages	2308392-1-2308392-7
+Year	2024
+DOI	10.1002/adma.202308392
+Abstract	A multistep synthesis of a new tetra-amidate macrocyclic ligand functionalized with alkyl-thiophene moieties, 15,15-bis(6-(thiophen-3-yl)hexyl)-8,13-dihydro-5H-dibenzo[b,h][1,4,7,10]tetraazacyclotridecine-6,7,14,16(15H,17H)-tetraone, H4L, is reported. The reaction of the deprotonated ligand, L4−, and Cu(II) generates the complex [LCu]2−, that can be further oxidized to Cu(III) with iodine to generate [LCu]−. The H4L ligand and their Cu complexes have been thoroughly characterized by analytic and spectroscopic techniques (including X-ray Absorption Spectroscopy, XAS). Under oxidative conditions, the thiophene group of [LCu]2− complex polymerizes on the surface of graphitic electrodes (glassy carbon disks (GC), glassy carbon plates (GCp), carbon nanotubes (CNT), or graphite felts (GF)) generating highly stable thin films. With CNTs deposited on a GC by drop casting, hybrid molecular materials labeled as GC/CNT@p-[LCu]2− are obtained. The latter are characterized by electrochemical techniques that show their capacity to electrocatalytically oxidize water to dioxygen at neutral pH. These new molecular anodes achieve current densities in the range of 0.4 mA cm−2 at 1.30 V versus NHE with an onset overpotential at ≈250 mV. Bulk electrolysis experiments show an excellent stability achieving TONs in the range of 7600 during 24 h with no apparent loss of catalytic activity and maintaining the molecular catalyst integrity, as evidenced by electrochemical techniques and XAS spectroscopy.
+-
+Number	ESRF24AN1515
+Author	Andlovic B., Valenti D., Centorrino F., Picarazzi F., Hristeva S., Hiltmann M., Wolf A., Cantrelle F.X., Mori M., Landrieu I., Levy L.M., Klebl B., Tzalis D., Genski T., Eickhoff J., Ottmann C.
+Title	Fragment-based interrogation of the 14–3–3/TAZ protein–protein interaction
+Journal title	Biochemistry
+Volume	63
+Pages	2196-2206
+Year	2024
+DOI	10.1021/acs.biochem.4c00248
+Abstract	The identification of chemical starting points for the development of molecular glues is challenging. Here, we employed fragment screening and identified an allosteric stabilizer of the complex between 14–3–3 and a TAZ-derived peptide. The fragment binds preferentially to the 14–3–3/TAZ peptide complex and shows moderate stabilization in differential scanning fluorimetry and microscale thermophoresis. The binding site of the fragment was predicted by molecular dynamics calculations to be distant from the 14–3–3/TAZ peptide interface, located between helices 8 and 9 of the 14–3–3 protein. This site was confirmed by nuclear magnetic resonance and X-ray protein crystallography, revealing the first example of an allosteric stabilizer for 14–3–3 protein–protein interactions.
+-
+Number	ESRF24AN1364
+Author	Andreana I., Chiapasco M., Bincoletto V., Digiovanni S., Manzoli M., Ricci C., Del Favero E., Riganti C., Arpicco S., Stella B.
+Title	Targeting pentamidine towards CD44-overexpressing cells using hyaluronated lipid-polymer hybrid nanoparticles
+Journal title	Drug Delivery and Translational Research
+Volume	14
+Pages	2100-2111
+Year	2024
+DOI	10.1007/s13346-024-01617-7
+Abstract	Biodegradable nanocarriers possess enormous potential for use as drug delivery systems that can accomplish controlled and targeted drug release, and a wide range of nanosystems have been reported for the treatment and/or diagnosis of various diseases and disorders. Of the various nanocarriers currently available, liposomes and polymer nanoparticles have been extensively studied and some formulations have already reached the market. However, a combination of properties to create a single hybrid system can give these carriers significant advantages, such as improvement in encapsulation efficacy, higher stability, and active targeting towards specific cells or tissues, over lipid or polymer-based platforms. To this aim, this work presents the formulation of poly(lactic-co-glycolic) acid (PLGA) nanoparticles in the presence of a hyaluronic acid (HA)-phospholipid conjugate (HA-DPPE), which was used to anchor HA onto the nanoparticle surface and therefore create an actively targeted hybrid nanosystem. Furthermore, ionic interactions have been proposed for drug encapsulation, leading us to select the free base form of pentamidine (PTM-B) as the model drug. We herein report the preparation of hybrid nanocarriers that were loaded via ion-pairing between the negatively charged PLGA and HA and the positively charged PTM-B, demonstrating an improved loading capacity compared to PLGA-based nanoparticles. The nanocarriers displayed a size of below 150 nm, a negative zeta potential of -35 mV, a core-shell internal arrangement and high encapsulation efficiency (90%). Finally, the ability to be taken up and exert preferential and receptor-mediated cytotoxicity on cancer cells that overexpress the HA specific receptor (CD44) has been evaluated. Competition assays supported the hypothesis that PLGA/HA-DPPE nanoparticles deliver their cargo within cells in a CD44-dependent manner.
+-
+Number	ESRF24AN1267
+Author	Angeli A., Ferraroni M., Capasso C., Supuran C.T.
+Title	The dopamine D2 receptors antagonist Veralipride inhibits carbonic anhydrases: Solution and crystallographic insights on human isoforms
+Journal title	Chemistry - An Asian Journal
+Volume	19
+Pages	e202400067-1-e202400067-6
+Year	2024
+DOI	10.1002/asia.202400067
+Keywords	CARBONIC ANHYDRASE
+, METALLOENZYME
+, X-RAY
+, VERALIPRIDE
+, SULFONAMIDE
+, ANTIPSYCHOTIC-DRUG
+, IX
+, AMISULPRIDE
+, (null)
+, BENZAMIDES
+Abstract	The inhibitory effects of veralipride, a benzamide-class antipsychotic acting as dopamine D2 receptors antagonist incorporates a primary sulfonamide moiety and was investigated for its interactions with carbonic anhydrase (CA) isoforms. In vitro profiling using the stopped-flow technique revealed that veralipride exhibited potent inhibitory activity across all tested hCA isoforms, with exception of hCA III. Comparative analysis with standard inhibitors, acetazolamide (AAZ), and sulpiride, provided insights for understanding the relative efficacy of veralipride as CA inhibitor. The study reports the X-ray crystal structure analysis of the veralipride adduct with three human (h) isoforms, hCA I, II, and CA XII mimic, allowing the understanding of the molecular interactions rationalizing its inhibitory effects against each isoform. These findings contribute to our understanding of veralipride pharmacological properties and for the design of structural analogs endowed with polypharmacological properties.
+-
+Number	ESRF24AN6033
+Author	Angermair J., Iglhaut G., Meyenberg K., Wiest W., Rack A., Zabler S., Fretwurst T., Nelson K., Kernen F
+Title	In vitro assessment of internal implant-abutment connections with different cone angles under static loading using synchrotron-based radiation
+Journal title	BMC Oral Health
+Volume	24
+Pages	396-1-396-10
+Year	2024
+DOI	10.1186/s12903-024-04156-2
+Keywords	DENTAL IMPLANTS
+, IMPLANT DESIGN
+, MICROGAP FORMATION
+, MECHANICAL TESTING
+, SYNCHROTRON RADIATION
+, COMPLICATION RATES
+, DENTAL IMPLANTS
+, MICROBIAL LEAKAGE
+, INTERFACE
+, DESIGN
+, MARGINAL FIT
+, FATIGUE
+, SURVIVAL
+, DIAMETER
+, STRENGTH
+, TITANIUM
+Abstract	Background: The stability of implant-abutment connection is crucial to minimize mechanical and biological complications. Therefore, an assessment of the microgap behavior and abutment displacement in different implant-abutment designs was performed. Methods: Four implant systems were tested, three with a conical implant-abutment connection based on friction fit and a cone angle < 12 degrees (Medentika, Medentis, NobelActive) and a system with an angulated connection (< 40 degrees) (Semados). In different static loading conditions (30 N - 90 degrees, 100 N - 90 degrees, 200 N - 30 degrees) the microgap and abutment displacement was evaluated using synchrotron-based microtomography and phase-contrast radioscopy with numerical forward simulation of the optical Fresnel propagation yielding an accuracy down to 0.1 mu m. Results: Microgaps were present in all implant systems prior to loading (0.15-9 mu m). Values increased with mounting force and angle up to 40.5 mu m at an off axis loading of 100 N in a 90 degrees angle. Conclusions: In contrast to the implant-abutment connection with a large cone angle (45 degrees), the conical connections based on a friction fit (small cone angles with < 12 degrees) demonstrated an abutment displacement which resulted in a deformation of the outer implant wall. The design of the implant-abutment connection seems to be crucial for the force distribution on the implant wall which might influence peri-implant bone stability.
+-
+Number	ESRF24AN6002
+Author	Anzellini S., Boccato S., Baty S.R., Burakovsky L., Antonangeli D., Errandonea D., Torchio R.
+Title	Melting line and thermal equation of state of fcc-cobalt: A combined experimental and computational approach
+Journal title	Results in Physics
+Volume	56
+Pages	107218-1-107218-8
+Year	2024
+DOI	10.1016/j.rinp.2023.107218
+Abstract	The melting line of cobalt has been investigated both experimentally, using synchrotron X-ray diffraction coupled with laser-heated diamond anvil cells, and theoretically, using ab initio simulations. Over the investigated pressure and temperature range – between 30 and 100 GPa and from ambient temperature up to 4000 K – the hexagonal close-packed structure, stable at ambient conditions, is replaced at high temperature by the face-centered cubic structure, observed stable till melting. The melting temperatures obtained by the two methods are in remarkable agreement and the melting line can be well described by a Simon–Glatzel equation of the form T 1768(K)(P(GPa)/35.62+1). Finally, from the obtained results it was possible to determine a thermal equation of state for the cubic face-centered phase of Co.
+-
+Number	ESRF24AN508
+Author	Anzellini S., Herlihy A., Dominijanni S., Botella P., Brooks A., Burakovsky L., Pakhomova A., Errandonea D.
+Title	Phase diagram of ruthenium characterized In Situ by synchrotron X-ray diffraction and Ab Initio simulations
+Journal title	Results in Physics
+Volume	65
+Pages	107961-1-107961-9
+Year	2024
+DOI	10.1016/j.rinp.2024.107961
+Abstract	In this work, an in situ characterization of the high-pressure and high-temperature phase diagram of ruthenium was carried out. This experiment was performed using a combination of laser-heated diamond anvil cell (LH-DAC) and X-ray diffraction (XRD) techniques at the beamline ID27 of the European Synchrotron Radiation Facility (ESRF). XRD patterns were collected in the range of 15 GPa to 110 GPa and from ambient temperature up to 6600 K. While the hcp-fcc transition, predicted to occur at elevated temperatures was not observed, this study has produced the first experimental observation of a solid–liquid phase transition of Ru at HP conditions. A P-V-T equation of state valid up to 100 GPa and 3000 K is reported.
+-
+Number	ESRF24AR1061
+Author	Arinkin V., Granzin J., Jaeger K.E., Willbold D., Krauss U., Batra-Safferling R.
+Title	Conserved signal transduction mechanisms and dark recovery kinetic tuning in the Pseudomonadaceae short Light, Oxygen, Voltage (LOV) protein family
+Journal title	Journal of Molecular Biology
+Volume	436
+Pages	168458-1-168458-20
+Year	2024
+DOI	10.1016/j.jmb.2024.168458
+Abstract	Light-Oxygen-Voltage (LOV) flavoproteins transduce a light signal into variable signaling outputs via a structural rearrangement in the sensory core domain, which is then relayed to fused effector domains via α-helical linker elements. Short LOV proteins from Pseudomonadaceae consist of a LOV sensory core and N- and C-terminal α-helices of variable length, providing a simple model system to study the molecular mechanism of allosteric activation. Here we report the crystal structures of two LOV proteins from Pseudomonas fluorescens - SBW25-LOV in the fully light-adapted state and Pf5-LOV in the dark-state. In a comparative analysis of the Pseudomonadaceae short LOVs, the structures demonstrate light-induced rotation of the core domains and splaying of the proximal A′α and Jα helices in the N and C-termini, highlighting evidence for a conserved signal transduction mechanism. Another distinguishing feature of the Pseudomonadaceae short LOV protein family is their highly variable dark recovery, ranging from seconds to days. Understanding this variability is crucial for tuning the signaling behavior of LOV-based optogenetic tools. At 37 °C, SBW25-LOV and Pf5-LOV exhibit adduct state lifetimes of 1470 min and 3.6 min, respectively. To investigate this remarkable difference in dark recovery rates, we targeted three residues lining the solvent channel entrance to the chromophore pocket where we introduced mutations by exchanging the non-conserved amino acids from SBW25-LOV into Pf5-LOV and vice versa. Dark recovery kinetics of the resulting mutants, as well as MD simulations and solvent cavity calculations on the crystal structures suggest a correlation between solvent accessibility and adduct lifetime.
+-
+Number	ESRF24AR1493
+Author	Arragain B., Krischuns T., Pelosse M., Drncová P., Blackledge M., Naffakh N., Cusack S.
+Title	Structures of influenza A and B replication complexes give insight into avian to human host adaptation and reveal a role of ANP32 as an electrostatic chaperone for the apo-polymerase
+Journal title	Nature Communications
+Volume	15
+Pages	6910-1-6910-20
+Year	2024
+DOI	10.1038/s41467-024-51007-3
+Abstract	Replication of influenza viral RNA depends on at least two viral polymerases, a parental replicase and an encapsidase, and cellular factor ANP32. ANP32 comprises an LRR domain and a long C-terminal low complexity acidic region (LCAR). Here we present evidence suggesting that ANP32 is recruited to the replication complex as an electrostatic chaperone that stabilises the encapsidase moiety within apo-polymerase symmetric dimers that are distinct for influenza A and B polymerases. The ANP32 bound encapsidase, then forms the asymmetric replication complex with the replicase, which is embedded in a parental ribonucleoprotein particle (RNP). Cryo-EM structures reveal the architecture of the influenza A and B replication complexes and the likely trajectory of the nascent RNA product into the encapsidase. The cryo-EM map of the FluB replication complex shows extra density attributable to the ANP32 LCAR wrapping around and stabilising the apo-encapsidase conformation. These structures give new insight into the various mutations that adapt avian strain polymerases to use the distinct ANP32 in mammalian cells.
+-
+Number	ESRF24AR1526
+Author	Arroyo-Urea S., Nazarova A.L., Carrión-Antoli Á., Bonifazi A., Battiti F.O., Lam J.H., Newman A.H., Katritch V., García-Nafría J.
+Title	A bitopic agonist bound to the dopamine 3 receptor reveals a selectivity site
+Journal title	Nature Communications
+Volume	15
+Pages	7759-1-7759-13
+Year	2024
+DOI	10.1038/s41467-024-51993-4
+Abstract	Although aminergic GPCRs are the target for ~25% of approved drugs, developing subtype selective drugs is a major challenge due to the high sequence conservation at their orthosteric binding site. Bitopic ligands are covalently joined orthosteric and allosteric pharmacophores with the potential to boost receptor selectivity and improve current medications by reducing off-target side effects. However, the lack of structural information on their binding mode impedes rational design. Here we determine the cryo-EM structure of the hD3R:GαOβγ complex bound to the D3R selective bitopic agonist FOB02-04A. Structural, functional and computational analyses provide insights into its binding mode and point to a new TM2-ECL1-TM1 region, which requires the N-terminal ordering of TM1, as a major determinant of subtype selectivity in aminergic GPCRs. This region is underexploited in drug development, expands the established secondary binding pocket in aminergic GPCRs and could potentially be used to design novel and subtype selective drugs.
+-
+Number	ESRF24AR1331
+Author	Artuk K., Turkay D., Mensi M.D., Steele J.A., Jacobs D.A., Othman M., Chin X.Y., Moon S.J., Tiwari A.N., Hessler-Wyser A., Jeangros Q., Ballif C., Wolff C.M.
+Title	A universal perovskite/C60 interface modification via atomic layer deposited aluminum oxide for perovskite solar cells and perovskite-silicon tandems
+Journal title	Advanced Materials
+Volume	36
+Pages	2311745-1-2311745-10
+Year	2024
+DOI	10.1002/adma.202311745
+Keywords	ALUMINUM OXIDE
+, PEROVSKITE SOLAR CELLS
+, PHOTOVOLTAICS
+, TANDEM SOLAR CELLS
+, PERFORMANCE
+, EFFICIENCY
+, CONTACTS
+, IODIDE
+, FILMS
+Abstract	The primary performance limitation in inverted perovskite-based solar cells is the interface between the fullerene-based electron transport layers and the perovskite. Atomic layer deposited thin aluminum oxide (AlOX) interlayers that reduce nonradiative recombination at the perovskite/C-60 interface are developed, resulting in >60 millivolts improvement in open-circuit voltage and 1% absolute improvement in power conversion efficiency. Surface-sensitive characterizations indicate the presence of a thin, conformally deposited AlOx layer, functioning as a passivating contact. These interlayers work universally using different lead-halide-based absorbers with different compositions where the 1.55 electron volts bandgap single junction devices reach >23% power conversion efficiency. A reduction of metallic Pb-0 is found and the compact layer prevents in- and egress of volatile species, synergistically improving the stability. AlOX-modified wide-bandgap perovskite absorbers as a top cell in a monolithic perovskite-silicon tandem enable a certified power conversion efficiency of 29.9% and open-circuit voltages above 1.92 volts for 1.17 square centimeters device area.
+-
+Number	ESRF24AS6059
+Author	Ashraf F., Ramadhan R.S., Mamun A.A., Ball J.A.D., Demir E., Connolley T., Collins D.M., Mostafavi M., Knowles D.
+Title	Investigating grain-resolved evolution of lattice strains during plasticity and creep using 3DXRD and crystal plasticity modelling
+Journal title	Acta Materialia
+Volume	278
+Pages	120250-1-120250-20
+Year	2024
+DOI	10.1016/j.actamat.2024.120250
+Abstract	Microstructure-informed crystal plasticity finite element models have shown great promise in predicting plastic and creep deformation in polycrystalline materials. These models can provide substantial insight into the design, fabrication and lifetime assessment of critical metallic components during operation, for instance, in thermal power plants. However, to correctly incorporate damage prediction into models, the microstructural strain simulated at the grain level must be accurately predicted with suitable validation. For this reason, a 3D X-ray Diffraction (3DXRD) experiment was carried out on 316H stainless steel, a material commonly used in thermal power plants, to obtain the per-grain strain response during plastic and creep deformation at 550°C. Several hundred grains within a probed X-ray volume were tracked and measured whilst loading in-situ, obtaining per-grain centre-of-mass positions, crystallographic orientations, and average lattice strain over individual grains. These data were used to calibrate a crystal plasticity model to study the plastic and creep deformation using macroscopic stress-strain and stress-relaxation data. Subsequently, the model was used to predict the average elastic strain in different grains during the cyclic creep experiment, which was validated by 3DXRD datasets. The model results reveal that {100} or {311} grain families are strongly sensitive to microstructure, thereby a polycrystal model that describes specific orientation and neighbourhood characteristics is essential to predict the local response of these grain families. Whereas, self-consistent models are suitable for {110} and {111} grain families. This study shows that only with a suitable calibration of subsurface grain behaviour, crystal plasticity models reveal grain characteristic-dependent micromechanical behaviour.
+-
+Number	ESRF24AS147
+Author	Asimakopoulou E.M., Bellucci V., Birnsteinova S., Yao Z., Zhang Y., Petrov I., Deiter C., Mazzolari A., Romagnoni M., Korytár D., Záprazný Z., Kuglerova Z., Juha L., Lukic B., Rack A., Samoylova L., García-Moreno F., Hall S.A., Neu T., Liang X., Vagovic P., Villanueva-Perez P.
+Title	Development towards high-resolution kHz-speed rotation-free volumetric imaging
+Journal title	Optics Express
+Volume	32
+Pages	4413-4426
+Year	2024
+DOI	10.1364/OE.510800
+Keywords	PHASE CONTRAST MICROTOMOGRAPHY
+, PHASE CONTRAST
+, TIME RESOLVED
+, TIME RESOLVED EXPERIMENTS
+, BEAM SPLITTER
+Abstract	X-ray multi-projection imaging (XMPI) has the potential to provide rotation-free 3D movies of optically opaque samples. The absence of rotation enables superior imaging speed and preserves fragile sample dynamics by avoiding the centrifugal forces introduced by conventional rotary tomography. Here, we present our XMPI observations at the ID19 beamline (ESRF, France) of 3D dynamics in melted aluminum with 1000 frames per second and 8 µm resolution per projection using the full dynamical range of our detectors. Since XMPI is a method under development, we also provide different tests for the instrumentation of up to 3000 frames per second. As the high-brilliance of 4th generation light-sources becomes more available, XMPI is a promising technique for current and future X-ray imaging instruments.
+-
+Number	ESRF24AS195
+Author	Aslandukov A., Aslandukova A., Laniel D., Khandarkhaeva S., Yin Y., Akbar F.I., Chariton S., Prakapenka V., Lawrence Bright E., Giacobbe C., Wright J., Comboni D., Hanfland M., Dubrovinskaia N., Dubrovinsky L.
+Title	Stabilization of N6 and N8 anionic units and 2D polynitrogen layers in high-pressure scandium polynitrides
+Journal title	Nature Communications
+Volume	15
+Pages	2244-1-2244-9
+Year	2024
+DOI	10.1038/s41467-024-46313-9
+Keywords	TOTAL-ENERGY CALCULATIONS
+, NITRIDES
+, NITROGEN
+, PREDICTION
+, PLATINUM
+, CRYSTAL
+Abstract	Nitrogen catenation under high pressure leads to the formation of polynitrogen compounds with potentially unique properties. The exploration of the entire spectrum of poly- and oligo-nitrogen moieties is still in its earliest stages. Here, we report on four novel scandium nitrides, Sc2N6, Sc2N8, ScN5, and Sc4N3, synthesized by direct reaction between yttrium and nitrogen at 78-125 GPa and 2500 K in laser-heated diamond anvil cells. High-pressure synchrotron single-crystal X-ray diffraction reveals that in the crystal structures of the nitrogen-rich Sc2N6, Sc2N8, and ScN5 phases nitrogen is catenated forming previously unknown N-6(6)- and N-8(6)- units and infinity 2(N-5(3-)) anionic corrugated 2D-polynitrogen layers consisting of fused N-12 rings. Density functional theory calculations, confirming the dynamical stability of the synthesized compounds, show that Sc2N6 and Sc2N8 possess an anion-driven metallicity, while ScN5 is an indirect semiconductor. Sc2N6, Sc2N8, and ScN5 solids are promising high-energy-density materials with calculated volumetric energy density, detonation velocity, and detonation pressure higher than those of TNT.
+-
+Number	ESRF24AS353
+Author	Aslandukov A., Liang A., Ehn A., Trybel F., Yin Y., Aslandukova A., Akbar F.I., Ranieri U., Spender J., Howie R.T., Lawrence Bright E., Wright J., Hanfland M., Garbarino G., Mezouar M., Fedotenko T., Abrikosov I.A., Dubrovinskaia N., Dubrovinsky L., Laniel D.
+Title	Synthesis of LaCN3, TbCN3, CeCN5, and TbCN5 Polycarbonitrides at Megabar Pressures
+Journal title	Journal of the American Chemical Society
+Volume	146
+Pages	18161-18171
+Year	2024
+DOI	10.1021/jacs.4c06068
+Abstract	Inorganic ternary metal–C–N compounds with covalently bonded C–N anions encompass important classes of solids such as cyanides and carbodiimides, well known at ambient conditions and composed of [CN]− and [CN2]2– anions, as well as the high-pressure formed guanidinates featuring [CN3]5– anion. At still higher pressures, carbon is expected to be 4-fold coordinated by nitrogen atoms, but hitherto, such CN4-built anions are missing. In this study, four polycarbonitride compounds (LaCN3, TbCN3, CeCN5, and TbCN5) are synthesized in laser-heated diamond anvil cells at pressures between 90 and 111 GPa. Synchrotron single-crystal X-ray diffraction (SCXRD) reveals that their crystal structures are built of a previously unobserved anionic single-bonded carbon–nitrogen three-dimensional (3D) framework consisting of CN4 tetrahedra connected via di- or oligo-nitrogen linkers. A crystal-chemical analysis demonstrates that these polycarbonitride compounds have similarities to lanthanide silicon phosphides. Decompression experiments reveal the existence of LaCN3 and CeCN5 compounds over a very large pressure range. Density functional theory (DFT) supports these discoveries and provides further insight into the stability and physical properties of the synthesized compounds.
+-
+Number	ESRF24AS430
+Author	Aslandukova A., Aslandukov A., Akbar F.I., Yin Y., Trybel F., Hanfland M., Pakhomova A., Chariton S., Prakapenka V., Dubrovinskaia N., Dubrovinsky L.
+Title	High-pressure oC16-YBr3 polymorph recoverable to ambient conditions: From 3D framework to layered material
+Journal title	Inorganic Chemistry
+Volume	63
+Pages	15611-15618
+Year	2024
+DOI	10.1021/acs.inorgchem.4c00813
+Abstract	Exfoliation of graphite and the discovery of the unique properties of graphene─graphite’s single layer─have raised significant attention to layered compounds as potential precursors to 2D materials with applications in optoelectronics, spintronics, sensors, and solar cells. In this work, a new orthorhombic polymorph of yttrium bromide, oC16-YBr3 was synthesized from yttrium and CBr4 in a laser-heated diamond anvil cell at 45 GPa and 3000 K. The structure of oC16-YBr3 was solved and refined using in situ synchrotron single-crystal X-ray diffraction. At high pressure, it can be described as a 3D framework of YBr9 polyhedra, but upon decompression below 15 GPa, the structure motif changes to layered, with layers comprising edge-sharing YBr8 polyhedra weakly bonded by van der Waals interactions. The layered oC16-YBr3 material can be recovered to ambient conditions, and according to Perdew–Burke–Ernzerhof–density functional theory calculations, it exhibits semiconductor properties with a band gap that is highly sensitive to pressure. This polymorph possesses a low exfoliation energy of 0.30 J/m2. Our results expand the list of layered trivalent rare-earth metal halides and provide insights into how high pressure alters their structural motifs and physical properties.
+-
+Number	ESRF24AS207
+Author	Aslandukova A., Aslandukov A., Laniel D., Yin Y., Akbar F.I., Bykov M., Fedotenko T., Glazyrin K., Pakhomova A., Garbarino G., Lawrence Bright E., Wright J., Hanfland M., Chariton S., Prakapenka V., Dubrovinskaia N., Dubrovinsky L.
+Title	Diverse high-pressure chemistry in Y-NH3BH3 and Y–paraffin oil systems
+Journal title	Science Advances
+Volume	10
+Pages	eadl5416-1-eadl5416-8
+Year	2024
+DOI	10.1126/sciadv.adl5416
+Abstract	The yttrium-hydrogen system has gained attention because of near-ambient temperature superconductivity reports in yttrium hydrides at high pressures. We conducted a study using synchrotron single-crystal x-ray diffraction (SCXRD) at 87 to 171 GPa, resulting in the discovery of known (two YH3 phases) and five previously unknown yttrium hydrides. These were synthesized in diamond anvil cells by laser heating yttrium with hydrogen-rich precursors—ammonia borane or paraffin oil. The arrangements of yttrium atoms in the crystal structures of new phases were determined on the basis of SCXRD, and the hydrogen content estimations based on empirical relations and ab initio calculations revealed the following compounds: Y3H11, Y2H9, Y4H23, Y13H75, and Y4H25. The study also uncovered a carbide (YC2) and two yttrium allotropes. Complex phase diversity, variable hydrogen content in yttrium hydrides, and their metallic nature, as revealed by ab initio calculations, underline the challenges in identifying superconducting phases and understanding electronic transitions in high-pressure synthesized materials.
+-
+Number	ESRF24AT310
+Author	Athanasiadou M., Papaefthymiou C., Kontarinis A., Spiliopoulou M., Koutoulas D., Konstantopoulos M., Kafetzi S., Barlos K., Barlos K.K., Dadivanyan N., Beckers D., Degen T., Fitch A.N., Margiolaki I.
+Title	Structural evolution of the pharmaceutical peptide octreotide upon controlled relative humidity and temperature variation
+Journal title	SynBio
+Volume	2
+Pages	205-222
+Year	2024
+DOI	10.3390/synbio2020012
+Abstract	Octreotide is the first synthetic peptide hormone, consisting of eight amino acids, that mimics the activity of somatostatin, a natural hormone in the body. During the past decades, advanced instrumentation and crystallographic software have established X-Ray Powder Diffraction (XRPD) as a valuable tool for extracting structural information from biological macromolecules. The latter was demonstrated by the successful structural determination of octreotide at a remarkably high d-spacing resolution (1.87 Å) (PDB code: 6vc1). This study focuses on the response of octreotide to different humidity levels and temperatures, with a particular focus on the stability of the polycrystalline sample. XRPD measurements were accomplished employing an Anton Paar MHC-trans humidity-temperature chamber installed within a laboratory X’Pert Pro diffractometer (Malvern Panalytical). The chamber is employed to control and maintain precise humidity and temperature levels of samples during XRPD data collection. Pawley analysis of the collected data sets revealed that the octreotide polycrystalline sample is remarkably stable, and no structural transitions were observed. The compound retains its orthorhombic symmetry (space group: P212121, a = 18.57744(4) Å, b = 30.17338(6) Å, c = 39.70590(9) Å, d ~ 2.35 Å). However, a characteristic structural evolution in terms of lattice parameters and volume of the unit cell is reported mainly upon controlled relative humidity variation. In addition, an improvement in the signal-to-noise ratio in the XRPD data under a cycle of dehydration/rehydration is reported. These results underline the importance of considering the impact of environmental factors, such as humidity and temperature, in the context of structure-based drug design, thereby contributing to the development of more effective and stable pharmaceutical products.
+-
+Number	ESRF24AU6003
+Author	Aubineau J., Parat F., Pierson-Wickmann A.C., Séranne M., Chi Fri E., El Bamiki R., Elghali A., Raji O., Muñoz M., Bonnet C., Jourani E.S., Yazami O.K., Bodinier J.L.
+Title	Phosphate δ13Corg chemostratigraphy from the Gantour basin, Morocco: A proof of concept from the K–Pg transition to mid-Thanetian
+Journal title	Chemical Geology
+Volume	644
+Pages	121861-1-121861-13
+Year	2024
+DOI	10.1016/j.chemgeo.2023.121861
+Abstract	The Late Cretaceous–early Paleogene interval is globally associated with transient to long-term changes in the stable carbon isotopic composition of marine carbonates (δ13Ccarb). Based on biostratigraphic reconstruction, this critical period of Earth's history is thought to coincide with the deposition of world heritage Paleocene phosphate deposits (phosphorites) in northwestern Morocco. However, the detailed stratigraphy of the Gantour basin, one of the most important Moroccan phosphate deposits, has not yet been constrained. For instance, the former “Montian” Stage has been used to tentatively approximate the Danian, whereas the succeeding Selandian Stage remains to be identified. Here, we develop a detailed organic carbon isotopic (δ13Corg) curve from phosphorus-rich horizons of the western Gantour sedimentary sequence in an attempt to constrain their stratigraphic placement and depositional age model. Upsection, these strata host long-term negative and positive δ13Corg trends that tend to correlate with global δ13Ccarb records of the Cretaceous–Paleogene and mid-Thanetian transitional boundaries. The data support the presence of Danian and Selandian rocks in the Gantour basin, which are succeeded by strata containing characteristic signatures of the well-known Cenozoic δ13C maximum at 58–57.5 Ma (the Paleocene Carbon Isotope Maximum). Our results shift the previously proposed Cretaceous–Paleogene transition in the Gantour basin further down into the older sediment C2M layer without interfering with recorded massive biological turnover in faunal diversity and abundance. Moreover, the refined stratigraphy suggests that the deposition of the Gantour phosphorites spanned ∼8.5 Myr. Our results confirm the utility of δ13Corg chemostratigraphy for dating and correlating phosphate-bearing deposits of the Tethyan province. They have important implications for deciphering Paleocene phosphogenesis, the co-evolution of associated vertebrate groups, and for prospecting phosphorus-rich mineral deposits.
+-
+Number	ESRF24AU1410
+Author	Auclerc M., Bru-Chambet A., Fulchiron R., Sudre G., Garois N., Cassagnau P., Bounor-Legaré V.
+Title	Nanostructuration of polyamide 6/polyetheramines blends by reactive extrusion: Reducing viscosity while improving the tensile properties
+Journal title	Industrial & Engineering Chemistry Research
+Volume	63
+Pages	12403-12412
+Year	2024
+DOI	10.1021/acs.iecr.4c00952
+Abstract	Nanostructurated polyamide-based blends were synthesized by reactive extrusion with multifunctional amine-terminated polyethers in a twin-screw extruder. All the reactive blends exhibited a noticeable reduction of the viscosity (up to 50%), while only the systems synthesized with a small amount of the trifunctional Jeffamine T-403 (0.7 wt %) depicted an increase of the Young’s modulus and yield strength by 20 and 13%, respectively, compared to the neat polyamide. The amorphous phase mobility and tensile properties modifications were explained by the crystalline nanostructure evolution of the chemically modified polyamide 6 (PA6). For the smallest quantity of amine, chains mobility evolutions in the amorphous phase of the blends PA6/T-403 were associated with the mobile amorphous fraction/rigid amorphous fraction (RAF) ratio. The material stiffening was not only due to a higher RAF content but also due to thicker crystalline lamellae. On the contrary, a difunctional diamide, Jeffamine D-400, led to chain scissions with no modification of the RAF content.
+-
+Number	ESRF24AV1445
+Author	Avola T., Campisi S., Scavini M., Bossola F., Evangelisti C., Lázár K., Gervasini A.
+Title	An effective cascade strategy over a Sn-enriched phosphate material: Upcycling a reductive adsorbent into an environmental catalyst
+Journal title	Applied Surface Science
+Volume	672
+Pages	160734-1-160734-13
+Year	2024
+DOI	10.1016/j.apsusc.2024.160734
+Abstract	A calcium phosphate-based material enriched with Sn (8.3 at.%, as revealed by X-ray photoelectron spectroscopy) was successfully used in the reductive adsorption of Cr(VI) to Cr(III) for water remediation and, after use, repurposed into a catalyst for NO oxidation into NO2. The use of multiple characterization techniques (Mӧssbauer spectroscopy, synchrotron X-ray diffraction, TEM, and HAADF-STEM/EDS) provided information on Sn-speciation (Sn(II)/Sn(IV) = 1.2), structural composition, and morphological features. Cassiterite (rutile-type SnO2) and hydroromarchite (tin oxide-hydroxide Sn6O4(OH)4) crystalline phases characterized the material, along with the presence of an amorphous Ca3(PO4)2 phase. Notably, about 15 mgCr(VI)∙g−1 could be effectively reduced over a broad pH range (2–11), even in the simultaneous presence of various anions and cations, with concurrent adsorption of the resulting Cr(III), thanks to the adsorption properties of the phosphate phase. The kinetic constant of Cr(VI) removal was as high as 0.0058 g∙mg−1∙min−1 and increased in the presence of a pool of cations (0.0147 g∙mg−1∙min−1). The catalytic performances of the adsorbent after use in Cr(VI) reductive adsorption were studied in the 150–450 °C interval at 15,000–80,000 h−1 space velocity. About 90 % of NO conversion at 350 °C was observed.
+-
+Number	ESRF24AZ352
+Author	Azevedo A., Lesser E., Phelps J.S., Mark B., Elabbady L., Kuroda S., Sustar A., Moussa A., Khandelwal A., Dallmann C.J., Agrawal S., Lee S.Y.J., Pratt B., Cook A., Skutt-Kakaria K., Gerhard S., Lu R., Kemnitz N., Lee K., Halageri A., Castro M., Ih D., Gager J., Tammam M., Dorkenwald S., Collman F., Schneider-Mizell C., Brittain D., Jordan C.S., Dickinson M., Pacureanu A., Seung H.S., Macrina T., Lee W.C.A., Tuthill J.C.
+Title	Connectomic reconstruction of a female Drosophila ventral nerve cord
+Journal title	Nature
+Volume	631
+Pages	360-368
+Year	2024
+DOI	10.1038/s41586-024-07389-x
+Abstract	A deep understanding of how the brain controls behaviour requires mapping neural circuits down to the muscles that they control. Here, we apply automated tools to segment neurons and identify synapses in an electron microscopy dataset of an adult female Drosophila melanogaster ventral nerve cord (VNC)1, which functions like the vertebrate spinal cord to sense and control the body. We find that the fly VNC contains roughly 45 million synapses and 14,600 neuronal cell bodies. To interpret the output of the connectome, we mapped the muscle targets of leg and wing motor neurons using genetic driver lines2 and X-ray holographic nanotomography3. With this motor neuron atlas, we identified neural circuits that coordinate leg and wing movements during take-off. We provide the reconstruction of VNC circuits, the motor neuron atlas and tools for programmatic and interactive access as resources to support experimental and theoretical studies of how the nervous system controls behaviour.
+-
+Number	ESRF24BA1357
+Author	Bach K., Dohnálek J., Skerlová J., Kuzmík J., Poláchová E., Stanchev S., Majer P., Fanfrlík J., Pecina A., Rezac J., Lepsik M., Borshchevskiy V., Polovinkin V., Strisovsky K.
+Title	Extensive targeting of chemical space at the prime side of ketoamide inhibitors of rhomboid proteases by branched substituents empowers their selectivity and potency
+Journal title	European Journal of Medicinal Chemistry
+Volume	275
+Pages	116606-1-116606-13
+Year	2024
+DOI	10.1016/j.ejmech.2024.116606
+Abstract	Rhomboid intramembrane serine proteases have been implicated in several pathologies, and emerge as attractive pharmacological target candidates. The most potent and selective rhomboid inhibitors available to date are peptidyl α-ketoamides, but their selectivity for diverse rhomboid proteases and strategies to modulate it in relevant contexts are poorly understood. This gap, together with the lack of suitable in vitro models, hinders ketoamide development for relevant eukaryotic rhomboid enzymes. Here we explore the structure-activity relationship principles of rhomboid inhibiting ketoamides by medicinal chemistry and enzymatic in vitro and in-cell assays with recombinant rhomboid proteases GlpG, human mitochondrial rhomboid PARL and human RHBDL2. We use X-ray crystallography in lipidic cubic phase to understand the binding mode of one of the best ketoamide inhibitors synthesized here containing a branched terminal substituent bound to GlpG. In addition, to extend the interpretation of the co-crystal structure, we use quantum mechanical calculations and quantify the relative importance of interactions along the inhibitor molecule. These combined experimental analyses implicates that more extensive exploration of chemical space at the prime side is unexpectedly powerful for the selectivity of rhomboid inhibiting ketoamides. Together with variations in the peptide sequence at the non-prime side, or its non-peptidic alternatives, this strategy enables targeted tailoring of potent and selective ketoamides towards diverse rhomboid proteases including disease-relevant ones such as PARL and RHBDL2.
+-
+Number	ESRF24BA217
+Author	Bader J., Zhu W.L., Montési L., Qi C., Cordonnier B., Kohlstedt D., Warren J.
+Title	Effects of stress-driven melt segregation on melt orientation, melt connectivity and anisotropic permeability
+Journal title	Journal of Geophysical Research: Solid Earth
+Volume	129
+Pages	e2023JB028065-1-e2023JB028065-22
+Year	2024
+DOI	10.1029/2023jb028065
+Keywords	STRESS-DRIVEN MELT-RICH BANDS
+, MELT MIGRATION
+, SYNCHROTRON X-RAY
+, MICROTOMOGRAPHY
+, PERMEABILITY
+, ANISOTROPY
+, MELT LOCALIZATION
+, LATTICE BOLTZMANN METHOD
+, PARTIALLY MOLTEN ROCKS
+, BAND FORMATION
+, MANTLE
+, OLIVINE
+, SCALE
+, CONSEQUENCES
+, COMPUTATION
+, INSTABILITY
+, EXTRACTION
+Abstract	Stress-driven melt segregation may have important geochemical and geophysical effects but remains a poorly understood process. Few constraints exist on the permeability and distribution of melt in deformed partially molten rocks. Here, we characterize the 3D melt network and resulting permeability of an experimentally deformed partially molten rock containing several melt-rich bands based on an X-ray microtomography data set. Melt fractions range from 0.08 to 0.28 in the similar to 20-mu m-thick melt-rich bands, and from 0.02 to 0.07 in the intervening similar to 30-mu m-thick regions. We simulated melt flow through subvolumes extracted from the reconstructed rock at five length scales ranging from the grain scale (3 mu m) to the minimum length required to fully encompass two melt-rich bands (64 mu m). At grain scale, few subvolumes contain interconnected melt, and permeability is isotropic. As the length scale increases, more subvolumes contain melt that is interconnected parallel to the melt bands, but connectivity diminishes in the direction perpendicular to them. Even if melt is connected in all directions, permeability is lower perpendicular to the bands, in agreement with the elongation of melt pockets. Permeability parallel to the bands is proportional to melt fraction to the power of an exponent that increases from similar to 2 to 5 with increasing length scale. The permeability in directions parallel to the bands is comparable to that for an isotropic partially molten rock. However, no flow is possible perpendicular to the bands over distances similar to the band spacing. Melt connectivity limits sample scale melt flow to the plane of the melt-rich bands. When a mixture of solid olivine grains and basaltic melt is subjected to differential stress, the melt can collect into sheet-like bands. Melt transport properties, including melt trajectories, chemical diffusion, and ductile creep, may all become anisotropic in the presence of these melt-rich bands. We present here the first quantification of the melt network properties in three dimensions based on synchrotron X-ray microtomography of experimentally deformed olivine/basalt aggregates. We show that the melt network presents no connection between melt-rich bands, restricting flow to the directions contained in the planes of these bands. Even at grain scale, melt pockets are preferentially oriented along the plane of the bands. The relationship between melt content and permeability derived from undeformed rocks is not valid at sample scale in sheared aggregates. 3D microtomography images of sheared partially molten rocks reveal scale-dependent melt network properties The permeability parallel to melt-rich bands is similar to that of rocks with textural equilibrium melt geometries Melt cannot flow over long distances perpendicular to melt-rich band due to lack of melt connectivity in that direction and scale
+-
+Number	ESRF24BA389
+Author	Balagurov A.M., Bobrikov I.A., Chernyshov D.Y., Sohatsky A.S., Sumnikov S.V., Yerzhanov B., Golovin I.S.
+Title	Tetragonal phases in Fe-Ga alloys: A quantitative study
+Journal title	Physical Review Materials
+Volume	8
+Pages	073604-1-073604-13
+Year	2024
+DOI	10.1103/PhysRevMaterials.8.073604
+Abstract	Currently, the dominant model for the formation of enhanced magnetostriction of Fe-Ga alloys is based on the assumption of the presence of microscopic inclusions with a tetragonal L60 structure in the cubic matrix of the alloy. However, no evidence for the presence of this phase in the bulk of the alloys in amounts sufficient to have a noticeable effect on the magnitude of magnetostriction has been obtained so far. To test this hypothesis, a detailed scanning of the reciprocal space of Fe81Ga19Tb0.1 and Fe73Ga27 single crystals was carried out at ESRF at high photon flux stations. In particular, it was possible to reliably record superstructure diffraction peaks, the intensity of which was at a level of 2x10-6 from the intensity of the fundamental peaks. Nevertheless, neither the presence of superstructure diffraction peaks obviously belonging to the L60 phase nor the tetragonal splitting of the fundamental diffraction peaks into components, which could indicate the presence of this phase in the samples, was detected. Similar results were obtained using complementary methods (electron and neutron diffraction). Based on the performed analysis of the background level in the places of the expected positions of superstructure peaks of the L60 phase, it was found that the volume fraction of this phase in the Fe81Ga19Tb0.1 alloy cannot exceed 0.2 %. The presence of a previously discovered X phase with hexagonal or orthorhombic symmetry in a crystal with 27 at. % Ga was confirmed.
+-
+Number	ESRF24BA1434
+Author	Balasco N., Ruggiero A., Smaldone G., Pecoraro G., Coppola L., Pirone L., Pedone E.M., Esposito L., Berisio R., Vitagliano L.
+Title	Structural studies of KCTD1 and its disease-causing mutant P20S provide insights into the protein function and misfunction
+Journal title	International Journal of Biological Macromolecules
+Volume	277
+Pages	134390-1-134390-11
+Year	2024
+DOI	10.1016/j.ijbiomac.2024.134390
+Abstract	Members of the KCTD protein family play key roles in fundamental physio-pathological processes including cancer, neurodevelopmental/neuropsychiatric, and genetic diseases. Here, we report the crystal structure of the KCTD1 P20S mutant, which causes the scalp-ear-nipple syndrome, and molecular dynamics (MD) data on the wild-type protein. Surprisingly, the structure unravels that the N-terminal region, which precedes the BTB domain (preBTB) and bears the disease-associated mutation, adopts a folded polyproline II (PPII) state. The KCTD1 pentamer is characterized by an intricate architecture in which the different subunits mutually exchange domains to generate a closed domain swapping motif. Indeed, the BTB of each chain makes peculiar contacts with the preBTB and the C-terminal domain (CTD) of an adjacent chain. The BTB-preBTB interaction consists of a PPII-PPII recognition motif whereas the BTB-CTD contacts are mediated by an unusual (+/−) helix discontinuous association. The inspection of the protein structure, along with the data emerged from the MD simulations, provides an explanation of the pathogenicity of the P20S mutation and unravels the role of the BTB-preBTB interaction in the insurgence of the disease. Finally, the presence of potassium bound to the central cavity of the CTD pentameric assembly provides insights into the role of KCTD1 in metal homeostasis.
+-
+Number	ESRF24BA1416
+Author	Balboni B., Marotta R., Rinaldi F., Milordini G., Varignani G., Girotto S., Cavalli A.
+Title	An integrative structural study of the human full-length RAD52 at 2.2 Å resolution
+Journal title	Communications Biology
+Volume	7
+Pages	956-1-956-12
+Year	2024
+DOI	10.1038/s42003-024-06644-1
+Abstract	Human RAD52 (RAD52) is a DNA-binding protein involved in many DNA repair mechanisms and genomic stability maintenance. In the last few years, this protein was discovered to be a promising novel pharmacological target for anticancer strategies. Although the interest in RAD52 has exponentially grown in the previous decade, most information about its structure and mechanism still needs to be elucidated. Here, we report the 2.2 Å resolution cryo-EM reconstruction of the full-length RAD52 (FL-RAD52) protein. This allows us to describe the hydration shell of the N-terminal region of FL-RAD52, which is structured in an undecamer ring. Water molecules coordinate with protein residues to promote stabilization inside and among the protomers and within the inner DNA binding cleft to drive protein-DNA recognition. Additionally, through a multidisciplinary approach involving SEC-SAXS and computational methods, we comprehensively describe the highly flexible and dynamic organization of the C-terminal portion of FL-RAD52. This work discloses unprecedented structural details on the FL-RAD52, which will be critical for characterizing its mechanism of action and inhibitor development, particularly in the context of novel approaches to synthetic lethality and anticancer drug discovery.
+-
+Number	ESRF24BA1216
+Author	Balima M., Morfin I., Sudre G., Montembault A.
+Title	Stretchable hydrogels of chitosan/hyaluronic acid induced by polyelectrolyte complexation around neutral pH
+Journal title	Carbohydrate Polymers
+Volume	339
+Pages	122265-1-122265-12
+Year	2024
+DOI	10.1016/j.carbpol.2024.122265
+Abstract	In this work, we propose the formation of stretchable hydrogels at neutral pH from the physical crosslinking of chitosan (CS) and hyaluronic acid (HA) by polyelectrolyte complexation. A mixture of CS (Mw ≈ 600 kg/mol, degree of acetylation ≈ 50 %) solution and HA (Mw ≈ 77 kg/mol) solution was prepared with an excess of salts screening the electrostatic interactions CS/HA. In a controlled manner, the polyelectrolyte complexation was induced through the progressive dialysis of the salted polymer mixture against a sodium acetate solution (AcONa, 0.01 M) for 7 days. Depending on [HA], various materials were obtained: viscous solutions at [HA] = 0.75 % (w/v); hydrogels at [HA] = 1.50–2.24 % (w/v) with Young modulus of 14 kPa and stretchable to 200 %. The small angle X-ray scattering characterization of the hydrogels revealed a multiscale organization related to the conformation of the polymers induced by the physical interactions. The dialysis process with AcONa was optimized by adding a dialysis step against a zinc acetate solution containing Zn2+. The combination of polyelectrolyte complexation between CS/HA and metal complexation between Zn2+ and the polymers led to an enhancement of the hydrogel stretchability up to 400 %.
+-
+Number	ESRF24BA111
+Author	Ball J.A.D., Davis C., Slater C., Vashishtha H., Said M., Hébrard L., Steinhilber F., Wright J.P., Connolley T., Michalik S., Collins D.M.
+Title	Grain-level effects on in-situ deformation-induced phase transformations in a complex-phase steel using 3DXRD and EBSD
+Journal title	Acta Materialia
+Volume	265
+Pages	119608-1-119608-17
+Year	2024
+DOI	10.1016/j.actamat.2023.119608
+Abstract	A novel complex-phase steel alloy is conceived with a deliberately unstable austenite, , phase that enables the deformation-induced martensitic transformations (DIMT) to be explored at low levels of plastic strain. The DIMT was thus explored, in-situ and non-destructively, using both far-field Three-Dimensional X-ray Diffraction (3DXRD) and Electron Back-Scatter Diffraction (EBSD). Substantial martensite formation was observed under 10 % applied strain with EBSD, and many ɛ grain formation events were captured with 3DXRD, indicative of the indirect transformation of martensite via the reaction ɛ. Using ɛ grain formation as a direct measurement of grain stability, the influence of several microstructural properties, such as grain size, orientation and neighbourhood configuration, on stability have been identified. Larger grains were found to be less stable than smaller grains. Any grains oriented with {100} parallel to the loading direction preferentially transformed with lower stresses. Parent ɛ-forming grains possessed a neighbourhood with increased ferritic/martensitic volume fraction. This finding shows, unambiguously, that the nearby presence of and promotes ɛ formation in neighbouring grains. The minimum strain work criterion model for ɛ variant prediction was also evaluated, which worked well for most grains. However, ɛ-forming grains with a lower stress were less well predicted by the model, indicating crystal-level behaviour must be considered for accurate ɛ formation. The findings from this work are considered key for the future design of alloys where the deformation response can be controlled by tailoring microstructure and local or macroscopic crystal orientations.
+-
+Number	ESRF24BA1031
+Author	Bancet A., Frem R., Jeanneret F., Mularoni A., Bazelle P., Roelants C., Delcros J.G., Guichou J.F., Pillet C., Coste I., Renno T., Battail C., Cochet C., Lomberget T., Filhol O., Krimm I.
+Title	Cancer selective cell death induction by a bivalent CK2 inhibitor targeting the ATP site and the allosteric αD pocket
+Journal title	iScience
+Volume	27
+Pages	108903-1-108903-23
+Year	2024
+DOI	10.1016/j.isci.2024.108903
+Abstract	Although the involvement of protein kinase CK2 in cancer is well-documented, there is a need for selective CK2 inhibitors suitable for investigating CK2 specific roles in cancer-related biological pathways and further exploring its therapeutic potential. Here, we report the discovery of AB668, an outstanding selective inhibitor that binds CK2 through a bivalent mode, interacting both at the ATP site and an allosteric αD pocket unique to CK2. Using caspase activation assay, live-cell imaging, and transcriptomic analysis, we have compared the effects of this bivalent inhibitor to representative ATP-competitive inhibitors, CX-4945, and SGC-CK2-1. Our results show that in contrast to CX-4945 or SGC-CK2-1, AB668, by targeting the CK2 αD pocket, has a distinct mechanism of action regarding its anti-cancer activity, inducing apoptotic cell death in several cancer cell lines and stimulating distinct biological pathways in renal cell carcinoma.
+-
+Number	ESRF24BA1041
+Author	Bandiera L., Camattari R., Canale N., De Salvador D., Guidi V., Klag P., Lauth W., Mazzolari A., Negrello R., Paternò G., Romagnoni M., Sgarbossa F., Soldani M., Sytov A., Tikhomirov V.V.
+Title	Investigation of radiation emitted by sub GeV electrons in oriented scintillator crystals
+Journal title	Nuclear Instruments and Methods in Physics Research A
+Volume	1060
+Pages	169022-1-169022-4
+Year	2024
+DOI	10.1016/j.nima.2023.169022
+Abstract	The research investigates coherent interactions between sub-GeV electrons and oriented scintillator crystals, leading to enhanced electromagnetic (EM) radiation. Experiments at Mainz Mikrotron (MAMI) involved PWO, BGO, and CsI crystals oriented along , , and axes, respectively. Enhanced radiation emission was observed when the beam was aligned with crystal axes, especially in BGO and CsI for the first time. These findings are crucial for innovative detectors using oriented crystal scintillators, amplifying EM processes along specific crystallographic directions. Potential applications include ultra-compact, highly sensitive electromagnetic calorimeters for high-energy physics and astroparticles, as well as high-performance gamma detectors for nuclear physics and medical imaging.
+-
+Number	ESRF24BA384
+Author	Bandyopadhyay A., Das D., Chakraborty A., Bhowal S., Kumar V., Stenning G.B.G., Ritter C., Adroja D., Moretti Sala M., Efimenko A., Meneghini C., Bert F., Biswas P.K., Dasgupta I., Saha Dasgupta T., Mahajan A.V., Ray S.
+Title	Disordered magnetic ground state in a quasi-1-D d4 columnar iridate Sr3LiIrO6
+Journal title	Journal of Physics Condensed Matter
+Volume	36
+Pages	425804-1-425804-20
+Year	2024
+DOI	10.1088/1361-648X/ad63eb
+Abstract	Spin–orbit coupling offers a large variety of novel and extraordinary magnetic and electronic properties in otherwise ‘ordinary pool’ of heavy ion oxides. Here we present a detailed study on an apparently isolated hexagonal 2H spin-chain d4 iridate Sr3LiIrO6 with geometric frustration. Our structural studies reveal Li–Ir chemical order with desired stoichiometry in this compound, while x-ray absorption together with x-ray photoemission spectroscopic characterizations establish pure 5+ valence of Ir. We have established a magnetic ground state with finite Ir5+ magnetic moments in this compound, contrary to the anticipated nonmagnetic Jeff = 0 state, through combined dc susceptibility, 7Li nuclear magnetic resonance (NMR), muon spin relaxation (μSR) and ab-initio electronic structure studies. These investigations together with ac magnetic susceptibility and specific heat measurements reveal that despite having noticeable antiferromagnetic correlation among the Ir5+ local moments, this system does not magnetically order down to at least 0.05 K, possibly due to geometrical exchange frustration, arising from the comparable nearest- and next-nearest-neighbor interchain Ir–O–O–Ir superexchange interaction strengths with opposite signs. However, the zero-field μSR analysis shows emergence of a considerable proportion of spin-freezing on top of a spin-fluctuating dynamic magnetic background down to the lowest measured temperature of 1.7 K, possibly due to some inhomogeneity and/or the much stronger intra-column Ir–Ir magnetic exchange interaction strength relative to the inter-column Ir–Ir ones. The linear temperature dependence of the magnetic specific heat (Cm) in both zero and applied magnetic fields, plus the power-law behavior of the NMR spin-lattice relaxation rate suggest a gapless spinon density of states in this charge gapped disordered magnetic ground state of Sr3LiIrO6.
+-
+Number	ESRF24BA1060
+Author	Baran T., Wojtyla S., Scavini M., Carlà F., Welter E., Comparelli R., Dibenedetto A., Aresta M.
+Title	Copper–zinc oxide heterostructure photocathodes for hydrogen and methanol production
+Journal title	Materials Today Advances
+Volume	21
+Pages	100477-1-100477-12
+Year	2024
+DOI	10.1016/j.mtadv.2024.100477
+Abstract	Low activity and a short lifetime are the main weaknesses of photocatalysts. The photoactivity of copper oxide, which is known as one of the most promising materials for H2 evolution and CO2 reduction, can be improved by coupling with other semiconductors. This effect is based on a mutual charge transfer. The photocathode developed in this work, based on a CuO–ZnO composite with mutual self-doping, exhibits attractive photoelectrochemical properties, in particular a high density of generated photocurrent lasting for 24 h. Under visible light irradiation, the composite produces water-splitting, while in the presence of carbon dioxide it is able to perform CO2 reduction to methanol with good selectivity coupled to water oxidation. The high activity of the CuO-based cathode is due to the presence of zinc oxide, which is progressively leached, causing a slow decrease of the photoactivity of the material.
+-
+Number	ESRF24BA1322
+Author	Baranchikov A.E, Kozlova T.O., Istomin S.Y., Mironov A.V., Vasilchikova T.M., Gippius A.A., Plakhova T.V., Vasilyeva D.N., Ivanov V.K.
+Title	Sodium cerium phosphate, (Na,Ce)2Ce(PO4)2·xH2O, with mixed cerium oxidation states
+Journal title	ChemistrySelect
+Volume	9
+Pages	e202401010-1-e202401010-8
+Year	2024
+DOI	10.1002/slct.202401010
+Keywords	RARE EARTH ELEMENTS
+, PHOSPHATES
+, CRYSTAL STRUCTURE
+, MIXED VALENCE
+, TETRAVALENT ACTINIDE PHOSPHATES
+, EFFECTIVE IONIC-RADII
+, CRYSTAL-STRUCTURE
+, HYDROTHERMAL SYNTHESIS
+, THERMAL-DECOMPOSITION
+, HIGH-TEMPERATURE
+, CHEMISTRY
+, ACID
+, CRYSTALLIZATION
+, ORTHOPHOSPHATES
+Abstract	<p>A previously unknown double ceric sodium phosphate hydrate Na1.97Ce1.03(PO4)2 & sdot; xH2O containing both ceric and cerous cations was obtained by the hydrothermal treatment of amorphous ceric phosphate mixed with a sodium hydroxide aqueous solution. The presence of Ce3+ in the structure was proved by HERFD-XANES and ESR spectroscopy. Iterative transformation factor analysis of HERFD-XANES data allowed estimating the content of Ce3+ as 10 % of the total cerium. Water content of x=0.55 has been determined by thermogravimetric analysis combined with mass-spectrometry data. The structure of the compound was solved from powder X-ray diffraction data (S.G. P21/c a=6.9441(2) & Aring;, b=11.6805(3) & Aring;, c=9.3434(3) & Aring;, beta=111.6827(18)degrees). The new ceric sodium phosphate hydrate has a tunnel structure, where Ce3+ cations most likely partially occupy Na+ positions. The crystal structure of the novel compound has no direct analogues among the crystal structures of double tetravalent metal phosphates.</p>
+-
+Number	ESRF24BA1541
+Author	Baranova I., Angelova A., Stransky J., Andreasson J., Angelov B.
+Title	Hemoglobin–PEG interactions probed by small-angle X-ray scattering: Insights for crystallization and diagnostics applications
+Journal title	Journal of Physical Chemistry B
+Volume	128
+Pages	9262-9273
+Year	2024
+DOI	10.1021/acs.jpcb.4c03003
+Abstract	Protein–protein interactions, controlling protein aggregation in the solution phase, are crucial for the formulation of protein therapeutics and the use of proteins in diagnostic applications. Additives in the solution phase are factors that may enhance the protein’s conformational stability or induce crystallization. Protein–PEG interactions do not always stabilize the native protein structure. Structural information is needed to validate excipients for protein stabilization in the development of protein therapeutics or use proteins in diagnostic assays. The present study investigates the impact of polyethylene glycol (PEG) molecular weight and concentration on the spatial structure of human hemoglobin (Hb) at neutral pH. Small-angle X-ray scattering (SAXS) in combination with size-exclusion chromatography is employed to characterize the Hb structure in solution without and with the addition of PEG. Our results evidence that human hemoglobin maintains a tetrameric conformation at neutral pH. The dummy atom model, reconstructed from the SAXS data, aligns closely with the known crystallographic structure of methemoglobin (metHb) from the Protein Data Bank. We established that the addition of short-chain PEG600, at concentrations of up to 10% (w/v), acts as a stabilizer for hemoglobin, preserving its spatial structure without significant alterations. By contrast, 5% (w/v) PEG with higher molecular weights of 2000 and 4000 leads to a slight reduction in the maximum particle dimension (Dmax), while the radius of gyration (Rg) remains essentially unchanged. This implies a reduced hydration shell around the protein due to the dehydrating effect of longer PEG chains. At a concentration of 10% (w/v), PEG2000 interacts with Hb to form a complex that does not distort the protein’s spatial configuration. The obtained results provide a deeper understanding of PEG’s influence on the Hb structure in solution and broader knowledge regarding protein–PEG interactions.
+-
+Number	ESRF24BA6018
+Author	Barends T.R.M., Gorel A., Bhattacharyya S., Schirò G., Bacellar C., Cirelli C., Colletier J.P., Foucar L., Grünbein M.L., Hartmann E., Hilpert M., Holton J.M., Johnson P.J.M., Kloos M., Knopp G., Marekha B., Nass K., Kovacs G.N., Ozerov D., Stricker M., Weik M., Doak R.B., Shoeman R.L., Milne C.J., Huix-Rotllant M., Cammarata M., Schlichting I.
+Title	Influence of pump laser fluence on ultrafast myoglobin structural dynamics
+Journal title	Nature
+Volume	626
+Pages	905-911
+Year	2024
+DOI	10.1038/s41586-024-07032-9
+Keywords	EXCITED-STATE
+, PROTEIN
+, CRYSTALLOGRAPHY
+, INTERMEDIATE
+, HEMOGLOBIN
+, EXCITATION
+, CHEMISTRY
+, MOTIONS
+, ENERGY
+, FLOW
+Abstract	High-intensity femtosecond pulses from an X-ray free-electron laser enable pump-probe experiments for the investigation of electronic and nuclear changes during light-induced reactions. On timescales ranging from femtoseconds to milliseconds and for a variety of biological systems, time-resolved serial femtosecond crystallography (TR-SFX) has provided detailed structural data for light-induced isomerization, breakage or formation of chemical bonds and electron transfer1,2. However, all ultrafast TR-SFX studies to date have employed such high pump laser energies that nominally several photons were absorbed per chromophore3-17. As multiphoton absorption may force the protein response into non-physiological pathways, it is of great concern18,19 whether this experimental approach20 allows valid conclusions to be drawn vis-a-vis biologically relevant single-photon-induced reactions18,19. Here we describe ultrafast pump-probe SFX experiments on the photodissociation of carboxymyoglobin, showing that different pump laser fluences yield markedly different results. In particular, the dynamics of structural changes and observed indicators of the mechanistically important coherent oscillations of the Fe-CO bond distance (predicted by recent quantum wavepacket dynamics21) are seen to depend strongly on pump laser energy, in line with quantum chemical analysis. Our results confirm both the feasibility and necessity of performing ultrafast TR-SFX pump-probe experiments in the linear photoexcitation regime. We consider this to be a starting point for reassessing both the design and the interpretation of ultrafast TR-SFX pump-probe experiments20 such that mechanistically relevant insight emerges. Ultrafast time-resolved serial femtosecond crystallography is used to investigate a photodissociation reaction in a protein, revealing the strong impact of the pump laser fluence on the structural changes and the reaction mechanism.
+-
+Number	ESRF24BA1070
+Author	Barrat J.L., Del Gado E., Egelhaaf S.U., Mao X., Dijkstra M., Pine D.J., Kumar S.K., Bishop K., Gang O., Obermeyer A., Papadakis C.M., Tsitsilianis C., Smalyukh I.I., Hourlier-Fargette A., Andrieux S., Drenckhan W., Wagner N., Murphy R.P., Weeks E.R., Cerbino R., Han Y., Cipelletti L., Ramos L., Poon W.C.K., Richards J.A., Cohen I., Furst E.M., Nelson A., Craig S.L., Ganapathy R., Sood A.K., Sciortino F., Mungan M., Sastry S., Scheibner C., Fruchart M., Vitelli V., Ridout S.A., Stern M., Tah I., Zhang G., Liu A.J., Osuji C.O., Xu Y., Shewan H.M., Stokes J.R., Merkel M., Ronceray P., Rupprecht J.F., Matsarskaia O., Schreiber F., Roosen-Runge F., Aubin-Tam M.E., Koenderink G.H., Espinosa-Marzal R.M., Yus J., Kwon J.
+Title	Soft matter roadmap
+Journal title	Journal of Physics: Materials
+Volume	7
+Pages	012501-1-012501-104
+Year	2024
+DOI	10.1088/2515-7639/ad06cc
+Abstract	Soft materials are usually defined as materials made of mesoscopic entities, often self-organized, sensitive to thermal fluctuations and to weak perturbations. Archetypal examples are colloids, polymers, amphiphiles, liquid crystals, foams. The importance of soft materials in everyday commodity products, as well as in technological applications, is enormous, and controlling or improving their properties is the focus of many efforts. &#xD;&#xD;From a fundamental perspective, the possibility of manipulating soft material properties, by tuning interactions between constituents and by applying external perturbations, gives rise to an almost unlimited variety in physical properties. Together with the relative ease to observe and characterize them, this renders soft matter systems powerful model systems to investigate statistical physics phenomena, many of them relevant as well to hard condensed matter systems.&#xD; &#xD;Understanding the emerging properties from mesoscale constituents still poses enormous challenges, which have stimulated a wealth of new experimental approaches, including the synthesis of new systems with, e.g., tailored self-assembling properties, or novel experimental techniques in imaging, scattering or rheology. Theoretical and numerical methods, and coarse-grained models, have become central to predict physical properties of soft materials, while computational approaches that also use machine learning tools are playing a progressively major role in many investigations.&#xD;&#xD;This roadmap paper intends to give a broad overview of recent and possible future activities in the field of soft materials, with experts covering various developments and challenges in material synthesis and characterization, instrumental, simulation and theoretical methods as well as general concepts.
+-
+Number	ESRF24BA203
+Author	Barreau M., Salusso D., Zhang J., Haevecker M., Teschner D., Efimenko A., Bournel F., Gallet J.J., Borfecchia E., Sobczak K., Petit C., Zafeiratos S.
+Title	Uncovering the critical function of lanthanum in CH4 production from CO2 using exsolved LaNiO3 perovskite catalysts
+Journal title	Journal of Materials Chemistry A
+Volume	12
+Pages	7605-7621
+Year	2024
+DOI	10.1039/d3ta07391b
+Keywords	CARBON DEPOSITION
+, METHANE
+, NI
+, HYDROGEN
+, GAS
+, SPECTROSCOPY
+, PERFORMANCE
+, ETHANOL
+, FILMS
+, OXIDE
+Abstract	CO2 methanation, also known as the Sabatier reaction, is of great environmental interest as a sustainable process for energy production and storage. Herein, we report the development of a Ni-La2O3 catalyst for CO2 methanation prepared upon reduction of a LaNiO3 perovskite precursor. The perovskite-based catalyst exhibits enhanced activity, high methane selectivity and improved stability when compared to Ni-La2O3 prepared through conventional impregnation methods. The transformation of the LaNiO3 perovskite precursor upon thermal activation in H-2 was found to have a profound impact on the catalytic properties of the resulting material. The size and stability of exsolved Ni nanoparticles after prolonged reaction were investigated using ex situ electron microscopy. Synchrotron-based X-ray absorption fine structure (XAFS) spectroscopy, as well as soft and tender X-ray photoelectron spectroscopies (AP-XPS/HAXPES), provides detailed insights into the evolution of bulk and surface phases during the transition of the perovskite to its active catalytic state. Our findings indicate that processes beyond the well-established exsolution of nanoparticles, such as lanthana spillover onto nickel, may occur during H-2 activation. More importantly, in situ spectroscopy under CO2 methanation conditions revealed that the surface's affinity for La-hydroxide or La-carbonate formation significantly influences the reactivity. Specifically, we found that La-hydroxide acts as a precursor for the formation of La-oxycarbonate (hexagonal La2O2CO3 phase), a crucial element of the active exsolved catalyst. In contrast, in the absence of La-hydroxide, La-carbonates (La-2(CO3)(3)) formed on the surface, blocking the active sites of the supported catalyst. Our research examines hitherto unrecognized processes affecting the reactivity of exsolved perovskites, highlighting LaNiO3 as a promising catalyst for CO2 methanation.
+-
+Number	ESRF24BA1008
+Author	Bárria C., Athayde D., Hernandez G., Fonseca L., Casinhas J., Cordeiro T.N., Archer M., Arraiano C.M., Brito J.A., Matos R.G.
+Title	Structure and function of Campylobacter jejuni polynucleotide phosphorylase (PNPase): Insights into the role of this RNase in pathogenicity
+Journal title	Biochimie
+Volume	216
+Pages	56-70
+Year	2024
+DOI	10.1016/j.biochi.2023.10.006
+Abstract	Ribonucleases are in charge of the processing, degradation and quality control of all cellular transcripts, which makes them crucial factors in RNA regulation. This post-transcriptional regulation allows bacteria to promptly react to different stress conditions and growth phase transitions, and also to produce the required virulence factors in pathogenic bacteria. Campylobacter jejuni is the main responsible for human gastroenteritis in the world. In this foodborne pathogen, exoribonuclease PNPase (CjPNP) is essential for low-temperature cell survival, affects the synthesis of proteins involved in virulence and has an important role in swimming, cell adhesion/invasion ability, and chick colonization. Here we report the crystallographic structure of CjPNP, complemented with SAXS, which confirms the characteristic doughnut-shaped trimeric arrangement and evaluates domain arrangement and flexibility. Mutations in highly conserved residues were constructed to access their role in RNA degradation and polymerization. Surprisingly, we found two mutations that altered CjPNP into a protein that is only capable of degrading RNA even in conditions that favour polymerization. These findings will be important to develop new strategies to combat C. jejuni infections.
+-
+Number	ESRF24BA6026
+Author	Basini M., Pancaldi M., Wehinger B., Udina M., Unikandanunni V., Tadano T., Hoffmann M. C., Balatsky A. V., Bonetti S.
+Title	Terahertz electric-field-driven dynamical multiferroicity in SrTiO3
+Journal title	Nature
+Volume	628
+Pages	534-539
+Year	2024
+DOI	10.1038/s41586-024-07175-9
+Abstract	The emergence of collective order in matter is among the most fundamental and intriguing phenomena in physics. In recent years, the dynamical control and creation of novel ordered states of matter not accessible in thermodynamic equilibrium is receiving much attention. The theoretical concept of dynamical multiferroicity has been introduced to describe the emergence of magnetization due to time-dependent electric polarization in non-ferromagnetic materials7,8. In simple terms, the coherent rotating motion of the ions in a crystal induces a magnetic moment along the axis of rotation. Here we provide experimental evidence of room-temperature magnetization in the archetypal paraelectric perovskite SrTiO3 due to this mechanism. We resonantly drive the infrared-active soft phonon mode with an intense circularly polarized terahertz electric field and detect the time-resolved magneto-optical Kerr effect. A simple model, which includes two coupled nonlinear oscillators whose forces and couplings are derived with ab initio calculations using self-consistent phonon theory at a finite temperature9, reproduces qualitatively our experimental observations. A quantitatively correct magnitude was obtained for the effect by also considering the phonon analogue of the reciprocal of the Einstein–de Haas effect, which is also called the Barnett effect, in which the total angular momentum from the phonon order is transferred to the electronic one. Our findings show a new path for the control of magnetism, for example, for ultrafast magnetic switches, by coherently controlling the lattice vibrations with light.
+-
+Number	ESRF24BA106
+Author	Battiston T., Comboni D., Lotti P., Ferrarelli G., Migliori M., Giordano G., Hanfland M., Garbarino G., Liermann H.P., Gatta G.D.
+Title	High-pressure adsorption phenomena in natural and synthetic zeolites with EAB topology
+Journal title	Microporous and Mesoporous Materials
+Volume	365
+Pages	112873-1-112873-10
+Year	2024
+DOI	10.1016/j.micromeso.2023.112873
+Abstract	The high-pressure behaviour and the crystal-fluid interaction of zeolites with EAB topology were investigated by in-situ single-crystal and powder synchrotron X-ray diffraction, both on synthetic and natural samples. The experiments were conducted using a diamond anvil cell and different pressure transmitting fluids, including: the non-penetrating silicone oil and the potentially penetrating methanol:ethanol:H2O = 16:3:1 mixture, methanol and distilled H2O. The zeolites intrinsic compressional behaviour investigated with a non-penetrating fluid showed the significant role of the extra framework population on the bulk compressibility. Notably, within the first ∼0.5 GPa of the silicone oil ramp, the bulk modulus (KV0 = βV0−1) resulted to be KV0 = 62(1) GPa for the natural bellbergite and KV0 = 16(4) GPa for the synthetic K-analogue. The synthetic EAB zeolites demonstrated a high host capacity for methanol molecules, which were not able to penetrate the natural bellbergite cavities. A comparative analysis between the behaviour of zeolites with EAB topology and structurally similar zeolites, such as erionite (ERI topology) and offretite (OFF), is provided.
+-
+Number	ESRF24BA1123
+Author	Bauda E., Gallet B., Moravcova J., Effantin G., Chan H., Novácek J., Jouneau P.H., Rodrigues C.D.A., Schoehn G., Moriscot C., Morlot C.
+Title	Ultrastructure of macromolecular assemblies contributing to bacterial spore resistance revealed by in situ cryo-electron tomography
+Journal title	Nature Communications
+Volume	15
+Pages	1376-1-1376-12
+Year	2024
+DOI	10.1038/s41467-024-45770-6
+Keywords	BACILLUS-SUBTILIS
+, COAT
+, DNA
+, BEAM
+, TRANSFORMATIONS
+, VISUALIZATION
+, MORPHOGENESIS
+, PROTECTION
+, SAFA
+Abstract	Bacterial spores owe their incredible resistance capacities to molecular structures that protect the cell content from external aggressions. Among the determinants of resistance are the quaternary structure of the chromosome and an extracellular shell made of proteinaceous layers (the coat), the assembly of which remains poorly understood. Here, in situ cryo-electron tomography on lamellae generated by cryo-focused ion beam micromachining provides insights into the ultrastructural organization of Bacillus subtilis sporangia. The reconstructed tomograms reveal that early during sporulation, the chromosome in the forespore adopts a toroidal structure harboring 5.5-nm thick fibers. At the same stage, coat proteins at the surface of the forespore form a stack of amorphous or structured layers with distinct electron density, dimensions and organization. By analyzing mutant strains using cryo-electron tomography and transmission electron microscopy on resin sections, we distinguish seven nascent coat regions with different molecular properties, and propose a model for the contribution of coat morphogenetic proteins. Bacterial endospores are among the most resilient forms of life. Here, authors reveal ultrastructural details of the spore chromosome and the multiprotein, multilayered extracellular coat, shedding light on mechanisms contributing to spore resistance.
+-
+Number	ESRF24BA1522
+Author	Bauernfeind V., Saranathan V., Djeghdi K., Longo E., Flenner S., Greving I., Steiner U., Wilts B.D.
+Title	Not only a matter of disorder in I-WP minimal surface-based photonic networks: Diffusive structural color in Sternotomis amabilis longhorn beetles
+Journal title	Materials Today Advances
+Volume	23
+Pages	100524-1-100524-13
+Year	2024
+DOI	10.1016/j.mtadv.2024.100524
+Abstract	The diverse colors of longhorn beetles arise from either pigmentary absorption or interference of light with various photonic nanostructures. Variations in structure, order, and/or material composition give rise to diverse optical signals. Here, we investigated the colors of the longhorn beetle Sternotomis amabilis sylvia (Cerambycidae: Lamiinae). By combining optical microscopy and detailed bulk ultrastructural analysis of the colored scales that are the basis of the multicolored patterns of bluish-green and orange markings, we document polycrystalline networks based on the triply periodic minimal surface, Schoen’s I-WP, in the bluish-green scales. In contrast, amorphous quasi-ordered networks are found in the orange scales. The optical signal from the photonic networks is further altered by absorbing pigments. Ridged, micrometer-sized protrusions diffuse reflected light and suppress iridescence in all scale types. We discuss the pivotal role that order and disorder play in these photonic structures and support our understanding of the function of the scale geometry with full-wave optical simulations. Detailed knowledge about visible light interactions within intricate mediums, such as those observed in beetle scales, is highly relevant to current challenges in the design and synthesis of photonic nanostructures operating in the visible regime.
+-
+Number	ESRF24BA1363
+Author	Bauland J., Bouthier L.V., Poulesquen A., Gibaud T.
+Title	Attractive carbon black dispersions: Structural and mechanical responses to shear
+Journal title	Journal of Rheology
+Volume	68
+Pages	429-443
+Year	2024
+DOI	10.1122/8.0000791
+Abstract	The rheological behavior of colloidal dispersions is of paramount importance in a wide range of applications, including construction materials, energy storage systems, and food industry products. These dispersions consistently exhibit non-Newtonian behaviors, a consequence of intricate interplays involving colloids morphology, volume fraction, and interparticle forces. Understanding how colloids structure under flow remains a challenge, particularly in the presence of attractive forces leading to cluster formation. In this study, we adopt a synergistic approach, combining rheology with ultra small-angle x-ray scattering, to probe the flow-induced structural transformations of attractive carbon black (CB) dispersions and their effects on the viscosity. Our key findings can be summarized as follows.
+-
+Number	ESRF24BA390
+Author	Bauland J., Manna G., Divoux T., Gibaud T.
+Title	Two-step aging dynamics in enzymatic milk gels
+Journal title	Physical Review Materials
+Volume	8
+Pages	L072601-1-L072601-6
+Year	2024
+DOI	10.1103/PhysRevMaterials.8.L072601
+Abstract	Colloidal gels undergo a phenomenon known as physical aging, i.e., a continuous change of their physical properties with time. To date, most of the research effort on aging in gels has been focused on suspensions of hard colloidal particles. In this Letter, we tackle the case of soft colloidal “micelles” comprised of proteins, in which gelation is induced by the addition of an enzyme. Using time-resolved mechanical spectroscopy, we monitor the viscoelastic properties of a suspension of colloidal micelles through the sol-gel transition and subsequent aging. We show that the microscopic scenario underpinning the macroscopic aging dynamics comprises two sequential steps. First, the gel microstructure undergoes rapid coarsening, as observed by optical microscopy, followed by arrest. Second, aging occurs solely through a contact-driven mechanism, as evidenced by the square-root dependence of the yield stress with the elastic modulus measured at different ages of the gel. These results provide a comprehensive understanding of aging in enzymatic milk gels, crucial for a broad range of dairy products, and for soft colloids in general.
+-
+Number	ESRF24BA1243
+Author	Bay Y., Venskutonyté R., Frantsen S.M., Thorsen T.S., Musgaard M., Frydenvang K., Francotte P., Pirotte B., Biggin P.C., Kristensen A.S., Boesen T., Pickering D.S., Gajhede M., Kastrup J.S.
+Title	Small-molecule positive allosteric modulation of homomeric kainate receptors GluK1-3: Development of screening assays and insight into GluK3 structure
+Journal title	FEBS Journal
+Volume	291
+Pages	1506-1529
+Year	2024
+DOI	10.1111/febs.17046
+Keywords	CALCIUM-SENSITIVE FLUORESCENCE-BASED ASSAYS
+, ELECTRON MICROSCOPY
+, KAINATE RECEPTORS
+, MOLECULAR DYNAMICS SIMULATIONS
+, X-RAY CRYSTALLOGRAPHY
+, LIGAND-BINDING DOMAIN
+, 2,4-SYN-FUNCTIONALIZED (S)-GLUTAMATE ANALOGS
+, IONOTROPIC GLUTAMATE RECEPTORS
+, CRYSTAL-STRUCTURES
+, PHARMACOLOGICAL
+, CHARACTERIZATION
+, CHEMOENZYMATIC SYNTHESIS
+, AMPA
+, MECHANISM
+, AFFINITY
+, DIMER
+Abstract	The kainate receptors GluK1-3 (glutamate receptor ionotropic, kainate receptors 1-3) belong to the family of ionotropic glutamate receptors and are essential for fast excitatory neurotransmission in the brain, and are associated with neurological and psychiatric diseases. How these receptors can be modulated by small-molecule agents is not well understood, especially for GluK3. We show that the positive allosteric modulator BPAM344 can be used to establish robust calcium-sensitive fluorescence-based assays to test agonists, antagonists, and positive allosteric modulators of GluK1-3. The half-maximal effective concentration (EC50) of BPAM344 for potentiating the response of 100 mu m kainate was determined to be 26.3 mu m for GluK1, 75.4 mu m for GluK2, and 639 mu m for GluK3. Domoate was found to be a potent agonist for GluK1 and GluK2, with an EC50 of 0.77 and 1.33 mu m, respectively, upon co-application of 150 mu m BPAM344. At GluK3, domoate acts as a very weak agonist or antagonist with a half-maximal inhibitory concentration (IC50) of 14.5 mu m, in presence of 500 mu m BPAM344 and 100 mu m kainate for competition binding. Using H523A-mutated GluK3, we determined the first dimeric structure of the ligand-binding domain by X-ray crystallography, allowing location of BPAM344, as well as zinc-, sodium-, and chloride-ion binding sites at the dimer interface. Molecular dynamics simulations support the stability of the ion sites as well as the involvement of Asp761, Asp790, and Glu797 in the binding of zinc ions. Using electron microscopy, we show that, in presence of glutamate and BPAM344, full-length GluK3 adopts a dimer-of-dimers arrangement.
+-
+Number	ESRF24BE1320
+Author	Beck J., Shanmugaratnam S., Höcker B.
+Title	Diversifying de novo TIM barrels by hallucination
+Journal title	Protein Science
+Volume	33
+Pages	e5001-1-e5001-11
+Year	2024
+DOI	10.1002/pro.5001
+Keywords	DE NOVO PROTEIN DESIGN
+, HALLUCINATION
+, MACHINE LEARNING
+, SMALL MOLECULE BINDING SITE
+, (BETA ALPHA)(8)-BARREL
+, SMALL-ANGLE SCATTERING
+, DESIGN
+, EVOLUTION
+, SUITE
+, FOLD
+Abstract	De novo protein design expands the protein universe by creating new sequences to accomplish tailor-made enzymes in the future. A promising topology to implement diverse enzyme functions is the ubiquitous TIM-barrel fold. Since the initial de novo design of an idealized four-fold symmetric TIM barrel, the family of de novo TIM barrels is expanding rapidly. Despite this and in contrast to natural TIM barrels, these novel proteins lack cavities and structural elements essential for the incorporation of binding sites or enzymatic functions. In this work, we diversified a de novo TIM barrel by extending multiple beta alpha-loops using constrained hallucination. Experimentally tested designs were found to be soluble upon expression in Escherichia coli and well-behaved. Biochemical characterization and crystal structures revealed successful extensions with defined alpha-helical structures. These diversified de novo TIM barrels provide a framework to explore a broad spectrum of functions based on the potential of natural TIM barrels.
+-
+Number	ESRF24BE288
+Author	Bejas M., Zimmermann V., Betto D., Boyko T.D., Green R.J., Loew T., Brookes N.B., Cristiani G., Logvenov G., Minola M., Keimer B., Yamase H., Greco A., Hepting M.
+Title	Plasmon dispersion in bilayer cuprate superconductors
+Journal title	Physical Review B
+Volume	109
+Pages	144516-1-144516-8
+Year	2024
+DOI	10.1103/PhysRevB.109.144516
+Keywords	HIGH-TEMPERATURE SUPERCONDUCTIVITY
+, COLLECTIVE CHARGE EXCITATIONS
+, ELECTRON-GAS
+, STATES
+Abstract	The essential building blocks of cuprate superconductors are two-dimensional CuO2 sheets interspersed with charge reservoir layers. In bilayer cuprates, two closely spaced CuO2 sheets are separated by a larger distance from the subsequent pair in the next unit cell. In contrast to single-layer cuprates, prior theoretical work on bilayer systems has predicted two distinct acoustic plasmon bands for a given out-of-plane momentum transfer. Here we report random phase approximation (RPA) calculations for bilayer systems which corroborate the existence of two distinct plasmon bands. We find that the intensity of the lower-energy band is negligibly small in most parts of the Brillouin zone, whereas the higher-energy band carries significant spectral weight. We also present resonant inelastic x-ray scattering (RIXS) experiments at the O K-edge on the bilayer cuprate Y0.85Ca0.15Ba2Cu3O7 (Ca-YBCO), which show only one dispersive plasmon branch, in agreement with the RPA calculations. In addition, the RPA results indicate that the dispersion of the higher-energy plasmon band in Ca-YBCO is not strictly acoustic but exhibits a substantial energy gap of approximately 250 meV at the two-dimensional Brillouin zone center.
+-
+Number	ESRF24BE1149
+Author	Belloso-Casuso C., de Pedro I., Cañadillas-Delgado L., Beobide G., Sánchez-Andújar M., Ben J.G., Walker J., González Izquierdo P., Cano I., Fernández J.R., Fabelo O.
+Title	Structural and physico-chemical characterization of hybrid materials based on globular quinuclidinium cation derivatives and tetrachloridocobaltate(II) anions
+Journal title	CrystEngComm
+Volume	26
+Pages	439-451
+Year	2024
+DOI	10.1039/d3ce00759f
+Keywords	ORGANIC-INORGANIC MATERIALS
+Abstract	The present study explores the effect of local symmetry breaking of globular cations on the formation and properties of hybrid organic-inorganic materials based on tetrahalometallate anions. To this end, a crystal engineering approach was employed to design and synthesize three novel compounds, namely (quinuclidinium)(2)[CoCl4] (A), ((R,S)-3-aminoquinuclidinium)[CoCl4] (B) and ((R)-(-)-3-hydroxyquinuclidinium)(2)[CoCl4] (C). The thermal, structural, magnetic and electrical properties of these compounds were investigated using a comprehensive array of characterization techniques, including differential scanning calorimetry, single crystal X-ray diffraction, variable temperature synchrotron X-ray powder diffraction, and powder and single crystal neutron diffraction. Our results demonstrate that compounds A and C exhibit a structural phase transition above 322 and 340 K, respectively, resulting in a mesophase-like state featured by a sharp dielectric anomaly, which is attributed to the molecular dynamics of the organic cations in their rotational state. Moreover, compound C also displays an additional crystal phase transition at around 200 K as a result of the formation of a superstructure along the c-axis direction. On the other hand, compound B shows a possible diffusion phenomenon around 350 K related to dielectric permittivity changes. In terms of magnetic behaviour, all the compounds present antiferromagnetic interactions between tetrachloridocobaltate anions without long-range magnetic ordering down to 2 K. Overall, this study provides valuable insights at the molecular level into the impact of local symmetry breaking of the quinuclidinium cation in combination with the synergistic effect of the tetrachloridocobaltate anion on the structural, magnetic and dielectric properties, thus contributing to the progress of cutting-edge functional hybrid organic-inorganic materials.
+-
+Number	ESRF24BE1495
+Author	Benarib S., Muñoz M., Kieffer I., Hazemann J., Dacheux N., Clavier N.
+Title	Reductive hydrothermal conversion of uranyl oxalates into UO2+x monitored by in situ XANES analyses
+Journal title	Dalton Transactions
+Volume	53
+Pages	13982-13995
+Year	2024
+DOI	10.1039/D4DT01451K
+Abstract	Hydrothermal conversion of actinide oxalates has recently gained attention as an innovative fabrication route for nuclear fuels but has remained mainly limited to tetra- or tri-valent cations. We report herein the reductive conversion of mixtures of uranyl and oxalate ions into UO2+x oxides under mild hydrothermal conditions (T = 250 °C). A multi-parametric study first led to specifying the optimal conditions in terms of pH, oxalate/U ratio and duration to provide a quantitative precipitation of uranium in the hyper-stoichiometric dioxide form with pH = 0.8; R = noxalate/nU = 3, and t = 72 hours. Particularly, pH was evidenced as a key parameter, with 3 different compounds obtained over a range of only 0.4 units. The mechanism leading to the formation of UO2+x was then investigated thanks to an in situ XANES study. Analysis of the supernatant showed that U(VI) was quickly reduced into U(IV) thanks to the presence of oxalates and/or their decomposition products in solution, following first-order kinetics. Tetravalent uranium was then hydrolysed, leading to the precipitation of UO2+x as the only crystalline phase. This study thus demonstrates that the hydrothermal conversion of actinide oxalates into oxides is an extremely versatile tool that can be implemented in a large variety of chemical systems, particularly in terms of the oxidation state of the cations initially present in solution.
+-
+Number	ESRF24BE121
+Author	Benoit J., Kammerer C.F., Dollman K., Groenewald D.P., Smith R.M.H.
+Title	Did gorgonopsians survive the end-Permian “Great Dying”? A re-appraisal of three gorgonopsian specimens (Therapsida, Theriodontia) reported from the Triassic Lystrosaurus declivis Assemblage Zone, Karoo Basin, South Africa
+Journal title	Palaeogeography, Palaeoclimatology, Palaeoecology
+Volume	638
+Pages	112044-1-112044-16
+Year	2024
+DOI	10.1016/j.palaeo.2024.112044
+Abstract	Gorgonopsians were the dominant carnivores of the late Permian (Lopingian) and it is widely accepted that the clade became extinct at the Permian-Triassic boundary, almost 252 million years ago. However, South African collections house three historically-collected gorgonopsian specimens listed as Early Triassic in age, based on their discovery at localities producing the index fossil Lystrosaurus. Initial reports suggested that these specimens had been reworked from underlying Permian strata, but this possibility was never thoroughly addressed. The possible survival of gorgonopsians into the Triassic would significantly alter our understanding of the end-Permian mass extinction and post-extinction ecosystem dynamics. Here we use Synchrotron X-ray micro-computed microtomography to confirm the identifications and investigate the taphonomic histories of these three specimens. We also relocated the original localities to determine their stratigraphic position. We confirm that all three specimens are indeed gorgonopsians, belonging to the small-bodied genus Cyonosaurus, and that taphonomic assessments do not support reworking. Two of them can be confidently assigned to the latest Permian Lystrosaurus maccaigi-Moschorhinus Subzone of the Daptocephalus Assemblage Zone. In contrast, at the locality listed for the third specimen, NMQR 389, the lowermost outcropping strata belong to the upper Palingkloof Member of the Balfour Formation, which is Early Triassic in age. Despite the evident absence of Permian-aged rocks, other Permian fossils were reported from the same locality, thus casting doubts about the age of NMQR 389. Additionally, differences in preservation style between this skull and the newly collected material at the site cast doubt on its provenance. Although not supporting gorgonopsian survival into the Triassic, these new occurrences expand the range of the genus Cyonosaurus higher up in the extinction zone, increasing the complexity of the ecological turmoil that carnivores endured during “The Great Dying”.
+-
+Number	ESRF24BE6051
+Author	Berkmann F., Venanzi T., Baldassarre L., Campagna E., Talamas Simola E., Di Gaspare L., Corley-Wiciak C., Capellini G., Nicotra G., Sfuncia G., Notargiacomo A., Giovine E., Cibella S., Virgilio M., Scalari G., De Seta M., Ortolani M.
+Title	Ultrastrong coupling of Si1-xGex parabolic quantum wells to terahertz microcavities
+Journal title	ACS Photonics
+Volume	11
+Pages	2776-2786
+Year	2024
+DOI	10.1021/acsphotonics.4c00641
+Abstract	Control and manipulation of quantum states by light are increasingly important for both fundamental research and applications. This can be achieved through the strong coupling between light and semiconductor devices, typically observed at THz frequencies in 2D electron gases embedded in lithographic optical cavities. Here, we explore the possibility of achieving ultrastrong coupling between conduction sub-band states in Si1–xGex heterostructures and THz cavity photons fabricated with a potentially silicon-CMOS-compliant process. We developed Si1–xGex parabolic quantum wells with a transition at ω0 = 3.1 THz and hybrid metal-plasmonic THz patch-antenna microcavities resonating between 2 and 5 THz depending on the antenna length. In this first demonstration, we achieved anticrossing around 3 THz with spectroscopically measured Rabi frequency ΩR ≃ 0.7 THz (ΩR/ω0 ≃ 0.2, i.e., ultrastrong coupling). The present group-IV semiconductor material platform can be extended to the 5–12 THz range, where these semiconductors are transparent, as opposed to the III–V compound semiconductors plagued by strong THz optical phonon absorption. Moreover, the intersubband transition in parabolic quantum wells hosted by the nonpolar Si1–xGex crystal lattice is robust against carrier density and temperature variations, making the strength of the coupling only weakly temperature-dependent from 10 to 300 K. These results pave the way for the employment of the Si1–xGex material platform to perform fundamental research in ultrastrong light–matter coupling, fully exploiting the plasmonic character of the cavity mirror, as well as in ultrafast modulators and saturable absorbers for THz laser research.
+-
+Number	ESRF24BE300
+Author	Bernasconi F., Plainpan N., Mirolo M., Wang Q., Zeng P., Battaglia C., Senocrate A.
+Title	Operando observation of (bi)carbonate precipitation during electrochemical CO2 reduction in strongly acidic electrolytes
+Journal title	ACS Catalysis
+Volume	14
+Pages	8232-8237
+Year	2024
+DOI	10.1021/acscatal.4c01884
+Keywords	CO2 REDUCTION
+, ELECTROCATALYSIS
+, GAS DIFFUSION ELECTRODES
+, ACIDIC
+, ELECTROLYTE
+, CARBONATESPRECIPITATION
+Abstract	Precipitation of (bi)carbonate salts during the electrochemical CO2 reduction (CO2RR) has been identified as a major cause of degradation and one of the main challenges to be overcome before implementing this technology on the industrial scale. Recently, the use of acidic electrolytes has been suggested as a promising strategy to avoid this undesirable precipitation of carbonates and maximize the conversion of CO2 into valuable products. However, direct experimental evidence supporting this claim, as well as an understanding of degradation mechanisms in acidic electrolytes, is currently missing. In this study, we use operando synchrotron wide-angle X-ray scattering to provide unambiguous experimental proof that substantial (bi)carbonate precipitation takes place in Ag and Cu gas diffusion electrodes (GDEs) during CO2RR even in strongly acidic electrolytes (pH 1). The (bi)carbonate signal intensity increases over time, correlating with a loss of selectivity for carbon products and an increased level of H-2 production. Electrochemical measurements coupled with products analysis also show that a minimum current is required to activate the CO2RR and suppress hydrogen evolution and that this current is higher for more acidic electrolytes. These findings provide experimental evidence for high local pH close to the catalyst even in acidic electrolytes. Our results confirm that the CO2RR performed in an acidic electrolyte can yield high selectivity to carbon products, provided sufficiently large current densities are applied to provoke local proton depletion in the vicinity of the catalyst, but that detrimental (bi)carbonate precipitation and selectivity losses occur even under these conditions.
+-
+Number	ESRF24BE1455
+Author	Berramdan N.E.H., Boutefnouchet H., Zidani M., Yamanoglu R., Curfs C.
+Title	Milling parameter optimization for refinement of NiO/Al mixtures and synthesis of Ni/Al2O3 nanocomposites
+Journal title	Journal of Mining and Metallurgy B
+Volume	60
+Pages	45-58
+Year	2024
+DOI	10.2298/JMMB230930004B
+Abstract	This study examined the effects of milling parameters on the development of Ni/Al2O3 nanocomposites and the refinement of NiO and Al powders. Ball milling of certain mixtures was followed by sintering at 800 and 1100 °C for 2 h. The X-ray diffraction results of the dry-milled powders indicated that increasing the ball-to-powder weight ratio from 20:1 to 42:1 resulted in finer particles, which enabled the synthesis of Ni/Al2O3 nanocomposites by milling at 200 rpm for 1.5 h. Extending the milling duration at lower rotational speeds yielded powders with nanoscale particle sizes. However, as shown by scanning electron microscopy and energy dispersion spectroscopy, a nanocomposite with metallic matrix was formed by the mechanochemical reaction, and the crystallite size was estimated using the Williamson–Hall plot. Furthermore, we used differential scanning calorimetry diagrams to analyze the effects of milling on the temperatures of phase transformation and/or reduction reactions. The tribological performance of the developed nickel metal matrix composite was investigated using a ball-on-disc tribometer under various loading conditions. Indeed, the friction coefficient increases with the applied forces and decreases with milling. Comprehensive examinations of the worn surfaces were carried out using a scanning electron microscope and a 3D optical profiler.
+-
+Number	ESRF24BE253
+Author	Berretti E., Giaccherini A., Dell'Aquila V., Di Benedetto F., Montegrossi G., Lepore G.O., Innocenti M., d'Acapito F., Vizza F., Lavacchi A.
+Title	In-situ and operando Grazing Incidence XAS: a novel set-up and its application to model Pd electrodes for alcohols oxidation
+Journal title	Pure and Applied Chemistry
+Volume	96
+Pages	493-509
+Year	2024
+DOI	10.1515/pac-2023-1013
+Keywords	ELECTROCATALYSIS
+, PALLADIUM
+, SURFACE CHEMISTRY
+, ALKALINE
+Abstract	In this article, we present an in-situ and operando time-resolved X-ray Absorption Spectroscopy (XAS) technique which exploits a combination of Grazing Incidence XAS (GIXAS) and Fixed Energy X-ray Absorption Voltammetry (FEXRAV), the Grazing Incidence FEXRAV (GI-FEXRAV). A case-study is also outlined. Palladium ultra-low loadings were deposited above Au polycrystalline iso-oriented substrates adopting three different deposition methods: surface-controlled electrochemical methods, direct electrodeposition, and physical vapour deposition (PVD). These catalytical surfaces were prepared for the investigation by GI-FEXRAV of the Pd oxidation/dissolution phenomenon that could occur when the metal is used in the anodic compartment of Direct Alcohol Fuel Cells (DAFCs) or in electrochemical reformers. Moreover, we report a robust, low cost and versatile procedure to obtain wide and flat iso-oriented gold substrates that can mimic monocrystalline gold (1 1 1) in the electrochemical response. The use of GI-FEXRAV for the operando characterization of the catalysts, in conjunction with the designed experimental cell and our flexible Au-based electrochemical substrates show an invaluable potential in the operando study of fundamental phenomena in heterogeneous electrocatalysis model systems and, due to its versatility, paves the way to further studies on a wide selection of electrochemical systems.
+-
+Number	ESRF24BE1544
+Author	Bertini L., Libera V., Catalini S., Schirò G., Orecchini A., Campanella R., Arciuolo V., Pagano B., Petrillo C., De Michele C., Comez L., Paciaroni A.
+Title	Hindered intermolecular stacking of anti-parallel telomeric G-quadruplexes
+Journal title	Journal of Chemical Physics
+Volume	161
+Pages	105101-1-105101-7
+Year	2024
+DOI	10.1063/5.0225371
+Abstract	Telomeric G-quadruplexes (G4s) are non-canonical DNA structures composed of TTAGGG repeats. They are extensively studied both as biomolecules key for genome stability and as promising building blocks and functional elements in synthetic biology and nanotechnology. This is why it is extremely important to understand how the interaction between G4s is affected by their topology. We used small-angle x-ray scattering to investigate the end-to-end stacking of antiparallel telomeric G-quadruplexes formed by the sequence AG3(T2AG3)3. To represent the experimental data, we developed a highly efficient coarse-grained fitting tool, which successfully described the samples as an equilibrium mixture of monomeric and dimeric G4 species. Our findings indicate that the antiparallel topology prevents the formation of long multimeric structures under self-crowding conditions, unlike the hybrid/parallel structures formed by the same DNA sequence. This result supports the idea that the stacking of monomeric G-quadruplexes is strongly affected by the presence of diagonal loops.
+-
+Number	ESRF24BE1444
+Author	Beugelink J.W., Hóf H., Janssen B.J.C.
+Title	CRTAC1 has a compact β-propeller–TTR core stabilized by potassium ions
+Journal title	Journal of Molecular Biology
+Volume	436
+Pages	168712-1-168712-13
+Year	2024
+DOI	10.1016/j.jmb.2024.168712
+Abstract	Cartilage acidic protein-1 (CRTAC1) is a secreted glycoprotein with roles in development, function and repair of the nervous system. It is linked to ischemic stroke, osteoarthritis and (long) COVID outcomes, and has suppressive activity in carcinoma and bladder cancer. Structural characterization of CRTAC1 has been complicated by its tendency to form disulfide-linked aggregates. Here, we show that CRTAC1 is stabilized by potassium ions. Using x-ray crystallography, we determined the structure of CRTAC1 to 1.6 Å. This reveals that the protein consists of a three-domain fold, including a previously-unreported compact β-propeller–TTR combination, in which an extended loop of the TTR plugs the β-propeller core. Electron density is observed for ten bound ions: six calcium, three potassium and one sodium. Low potassium ion concentrations lead to changes in tryptophan environment and exposure of two buried free cysteines located on a β-blade and in the β-propeller-plugging TTR loop. Mutating the two free cysteines to serines prevents covalent intermolecular interactions, but not aggregation, in absence of potassium ions. The potassium ion binding sites are located between the blades of the β-propeller, explaining their importance for the stability of the CRTAC1 fold. Despite varying in sequence, the three potassium ion binding sites are structurally similar and conserved features of the CRTAC protein family. These insights into the stability and structure of CRTAC1 provide a basis for further work into the function of CRTAC1 in health and disease.
+-
+Number	ESRF24BE1540
+Author	Bezuidenhout C.X., Perego J., Piva S., Rigamonti A., Sozzani P., Monguzzi A., Bracco S., Comotti A.
+Title	Heteroligand Zr-MOFs explored by xenon: Active site recognition by synchrotron PXRD, hyperpolarization NMR, and GCMC simulations
+Journal title	Crystal Growth & Design
+Volume	24
+Pages	7712-7719
+Year	2024
+DOI	10.1021/acs.cgd.4c01054
+Abstract	The formation of porous crystalline structures of a series of Zr-MOFs comprising two coligands (dimethyl-terphenylene and diphenylanthracene dicarboxylates, TP and DPA, respectively) with varying ratios offered the opportunity to investigate systematically the modulation of the accessible pore volumes. These MOF structures exhibit large octahedral cavities of common diameter, while the tetrahedral cavity sizes vary in the series and are gradually reduced with increasing anthracene-based ligand. At low loadings, xenon atoms concentrate in the most energetically favorable corners of the tetrahedral cavities. The application of multiple investigation techniques, such as synchrotron-radiation X-ray diffraction of Xe-loaded crystalline powders, Xe adsorption isotherms, and grand canonical Monte Carlo (GCMC) simulations, allows for determining gas location and interaction energy with the pore walls. The remarkable Xe adsorption energy of 25.4 kJ/mol at low coverage was obtained for the more effective confinement-sites of homoligand Zr-DPA. Additionally, hyperpolarized 129Xe NMR chemical shifts, collected at very low Xe partial pressure (2% Xe dilution), increased from 78.5 to 94.0 ppm, with increasing DPA ligand content. GCMC sorption simulations of the gas mixture with the same composition as that used for the hyperpolarized NMR experiments show remarkable Xe capture and 99% Xe located in the tetrahedral corners.
+-
+Number	ESRF24BI369
+Author	Bialo I., Martinelli L., De Luca G., Worm P., Drewanowski A., Jöhr S., Choi J., García-Fernández M., Agrestini S., Zhou K.J., Kummer K., Brookes N.B., Guo L., Edgeton A., Eom C.B., Tomczak J.M., Held K., Gibert M., Wang Q., Chang J.
+Title	Strain-tuned incompatible magnetic exchange-interaction in La2NiO4
+Journal title	Communications Physics
+Volume	7
+Pages	230-1-230-7
+Year	2024
+DOI	10.1038/s42005-024-01701-x
+Abstract	Magnetic frustration is a route for novel ground states, including spin liquids and spin ices. Such frustration can be introduced through either lattice geometry or incompatible exchange interactions. Here, we find that epitaxial strain is an effective tool for tuning antiferromagnetic exchange interactions in a square-lattice system. By studying the magnon excitations in La2NiO4 films using resonant inelastic x-ray scattering, we show that the magnon displays substantial dispersion along the antiferromagnetic zone boundary, at energies that depend on the lattice of the film’s substrate. Using first principles simulations and an effective spin model, we demonstrate that the antiferromagnetic next-nearest neighbour coupling is a consequence of the two-orbital nature of La2NiO4. Altogether, we illustrate that compressive epitaxial strain enhances this coupling and, as a result, increases the level of incompatibility between exchange interactions within a model square-lattice system.
+-
+Number	ESRF24BI1033
+Author	Bianchi E., Ruggeri M., Del Favero E., Pisano R., Artusio F., Ricci C., Vigani B., Ferraretto A., Boselli C., Cornaglia A.I., Rossi S., Sandri G.
+Title	Chondroitin sulfate and caseinophosphopeptides doped polyurethane-based highly porous 3D scaffolds for tendon-to-bone regeneration
+Journal title	International Journal of Pharmaceutics
+Volume	652
+Pages	123822-1-123822-12
+Year	2024
+DOI	10.1016/j.ijpharm.2024.123822
+Abstract	Tendon disorders are common injuries, which can be greatly debilitating as they are often accompanied by great pain and inflammation. Moreover, several problems are also related to the laceration of the tendon-to-bone interface (TBI), a specific region subjected to great mechanical stresses. The techniques used nowadays for the treatment of tendon and TBI injuries often involve surgery. However, one critical aspect of this procedure involves the elevated risk of fail due to the tissues weakening and the postoperative alterations of the normal joint mechanics. Synthetic polymers, such as thermoplastic polyurethane, are of special interest in the tissue engineering field as they allow the production of scaffolds with tunable elastic and mechanical properties, that could guarantee an effective support during the new tissue formation. Based on these premises, the aim of this work was the design and the development of highly porous 3D scaffolds based on thermoplastic polyurethane, and doped with chondroitin sulfate and caseinophosphopeptides, able to mimic the structural, biomechanical, and biochemical functions of the TBI. The obtained scaffolds were characterized by a homogeneous microporous structure, and by a porosity optimal for cell nutrition and migration. They were also characterized by remarkable mechanical properties, reaching values comparable to the ones of the native tendons. The scaffolds promoted the tenocyte adhesion and proliferation when caseinophosphopetides and chondroitin sulfate are present in the 3D structure. In particular, caseinophosphopeptides’ optimal concentration for cell proliferation resulted 2.4 mg/mL. Finally, the systems evaluation in vivo demonstrated the scaffolds’ safety, since they did not cause any inflammatory effect nor foreign body response, representing interesting platforms for the regeneration of injured TBI.
+-
+Number	ESRF24BI118
+Author	Biasiori-Poulanges L., Lukic B., Supponen O.
+Title	Cavitation cloud formation and surface damage of a model stone in a high-intensity focused ultrasound field
+Journal title	Ultrasonics Sonochemistry
+Volume	102
+Pages	106738-1-106738-11
+Year	2024
+DOI	10.1016/j.ultsonch.2023.106738
+Abstract	This work investigates the fundamental role of cavitation bubble clouds in stone comminution by focused ultrasound. The fragmentation of stones by ultrasound has applications in medical lithotripsy for the comminution of kidney stones or gall stones, where their fragmentation is believed to result from the high acoustic wave energy as well as the formation of cavitation. Cavitation is known to contribute to erosion and to cause damage away from the target, yet the exact contribution and mechanisms of cavitation remain currently unclear. Based on in situ experimental observations, post-exposure microtomography and acoustic simulations, the present work sheds light on the fundamental role of cavitation bubbles in the stone surface fragmentation by correlating the detected damage to the observed bubble activity. Our results show that not all clouds erode the stone, but only those located in preferential nucleation sites whose locations are herein examined. Furthermore, quantitative characterizations of the bubble clouds and their trajectories within the ultrasonic field are discussed. These include experiments with and without the presence of a model stone in the acoustic path length. Finally, the optimal stone-to-source distance maximizing the cavitation-induced surface damage area has been determined. Assuming the pressure magnitude within the focal region to exceed the cavitation pressure threshold, this location does not correspond to the acoustic focus, where the pressure is maximal, but rather to the region where the acoustic beam and thereby the acoustic cavitation activity near the stone surface is the widest.
+-
+Number	ESRF24BI334
+Author	Biran I., Bosak A., Ye Z.G., Levin I., Gorfman S.
+Title	Lattice match between coexisting cubic and tetragonal phases in PMN-PT at the phase transition
+Journal title	Applied Physics Letters
+Volume	124
+Pages	242901-1-242901-6
+Year	2024
+DOI	10.1063/5.0202576
+Keywords	RELAXOR FERROELECTRICS
+, DIFFUSE-SCATTERING
+, ADAPTIVE PHASE
+, FIELD
+, MICROSCOPY
+, CRYSTALS
+, ENERGY
+, STATES
+Abstract	(1-x)Pb(Mg1/3Nb2/3)O(3-)xPbTiO(3) (PMN-PT) perovskite-like solid solutions are recognized for their outstanding electromechanical properties, which are of technological importance. However, some significant aspects of the crystal structures and domain assemblages in this system and the role of these characteristics in defining the functional performance of PMN-PT remain uncertain. Here, we used synchrotron x-ray diffraction to investigate the phase transition linking the paraelectric (cubic) and ferroelectric (tetragonal) phases in a single crystal of 0.65PMN-0.35PT. We analyzed the evolution of reciprocal-space maps across this transition. These maps were collected using small temperature step (1 K) and a high reciprocal-space resolution to reveal changes in the splitting of Bragg peaks caused by the formation of ferroelastic domains in the low-symmetry phase. Our results uncovered a two-phase state, cubic plus tetragonal phases, which exists over a narrow temperature range of only approximate to 4 K and exhibits a thermal hysteresis of approximate to 1.8 K. Remarkably, within this state, the lattice parameter of the cubic phase, a(C), matches the orientational average of the lattice parameters for the tetragonal polymorph,( 2)/(3) a(T) + (1)/(3)c(T). We discuss the implications of this matching, highlighting the possibility of it being realized by the formation of an assemblage of tetragonal twin domains separated from the cubic phase by a strain-free 110 boundary, as in the "adaptive phase" but without domain miniaturization.
+-
+Number	ESRF24BI1081
+Author	Biswas S., Patra A., Paul P., Misra N., Kushwaha G.S., Suar M.
+Title	Structural and biochemical studies on Klebsiella Pneumoniae enoyl-ACP reductase (FabI) suggest flexible substrate binding site
+Journal title	Protein Journal
+Volume	43
+Pages	84-95
+Year	2024
+DOI	10.1007/s10930-023-10176-8
+Abstract	Klebsiella pneumoniae, a bacterial pathogen infamous for antibiotic resistance, is included in the priority list of pathogens by various public health organizations due to its extraordinary ability to develop multidrug resistance. Bacterial fatty acid biosynthesis pathway-II (FAS-II) has been considered a therapeutic drug target for antibacterial drug discovery. Inhibition of FAS-II enzyme, enoyl-acyl carrier protein reductase, FabI, not only inhibits bacterial infections but also reverses antibiotic resistance. Here, we characterized Klebsiella pneumoniae FabI (KpFabI) using complementary experimental approaches including, biochemical, x-ray crystallography, and molecular dynamics simulation studies. Biophysical studies shows that KpFabI organizes as a tetramer molecular assembly in solution as well as in the crystal structure. Enzyme kinetics studies reveal a distinct catalytic property towards crotonyl CoA and reducing cofactor NADH. Michaelis-Menten constant (Km) values of substrates show that KpFabI has higher preference towards NADH as compared to crotonyl CoA. The crystal structure of tetrameric apo KpFabI folds into a classic Rossman fold in which β-strands are sandwiched between α-helices. A highly flexible substrate binding region is located toward the interior of the tetrameric assembly. Thermal stability assay on KpFabI with its substrate shows that the flexibility is primarily stabilized by cofactor NADH. Moreover, the molecular dynamics further supports that KpFabI has highly flexible regions at the substrate binding site. Together, these findings provide evidence for highly dynamic substrate binding sites in KpFabI, therefore, this information will be vital for specific inhibitors discovery targeting Klebsiella pneumoniae.
+-
+Number	ESRF24BL1504
+Author	Blasco J., Gracia D., Lafuerza S., Cuartero V., Subías G.
+Title	Effects of doping with magnetic cations on the hybrid improper ferroelectricity in Sr3Sn2O7
+Journal title	Journal of Alloys and Compounds
+Volume	1005
+Pages	176148-1-176148-8
+Year	2024
+DOI	10.1016/j.jallcom.2024.176148
+Abstract	We here report the structural, magnetic and electrical properties of Sr2.9La0.1Sn1.9M0.1O7 (M= Cr, Mn or Fe) compounds. This La/M codoping of the hybrid improper ferroelectric Sr3Sn2O7, allows introducing magnetic cations into the perovskite layers of this Ruddlesden-Popper phase. The doping induces minor structural changes, preserving the polar structure with space group A21am of the undoped compound. The perovskite tolerance factor of all doped samples is slightly lower than in Sr3Sn2O7, which preserves the tilts and rotations of SnO6 octahedra. Doped samples exhibit a paramagnetic behavior down to 5 K and obey the Curie-Weiss law above 200 K. The effective paramagnetic moments agree with the expected spin-only values of the respective magnetic M3+ cations. All samples show a ferroelectric hysteresis loop at room temperature, but the doped samples show larger coercive fields. Additionally, the doping with magnetic cations has important effects on the dielectric properties: a strong decrease of the temperature of the ferroelectric transition together with a smoothing of the anomaly in the dielectric permittivity. These results suggest that the disorder produced by the two aliovalent substitutions is detrimental for the ferroelectric properties due to point charge defects but, at the same time, the prevalence of the structural distortion (tilts and rotations) preserves the ferroelectricity in the investigated doping regime.
+-
+Number	ESRF24BL348
+Author	Blommaert H., Castillo-Michel H., Veronesi G., Tucoulou R., Beauchêne J., Umaharan P., Smolders E., Sarret G.
+Title	Ca-oxalate crystals are involved in cadmium storage in a high Cd accumulating cultivar of cacao
+Journal title	Environmental and Experimental Botany
+Volume	221
+Pages	105713-1-105713-11
+Year	2024
+DOI	10.1016/j.envexpbot.2024.105713
+Abstract	Cadmium (Cd) concentrations in cacao often exceed food limits. A better understanding of the molecular mechanisms of Cd accumulation in cacao trees is necessary to advance Cd mitigation strategies. This study explores Cd distribution and speciation (i.e., chemical form) within the vegetative organs of a high Cd accumulating cacao cultivar growing in soil with background Cd concentrations (0.28 mg Cd kg−1) by synchrotron radiation-based micro- and nano-X-ray fluorescence imaging and X-ray absorption spectroscopy on duplicate samples of roots, young branches, mature branches, and leaves. In both the roots and branches, the incorporation of Cd in Ca-oxalate crystals with binding to oxygen-ligands was identified as a major mechanism of Cd regulation. The Ca-oxalate crystals were more abundant in the branches than in the roots. We suggest that the incorporation of Cd into the Ca-oxalate crystals may limit the transfer of Cd to other organs like the leaves and beans. The roots also featured Cd-sulfur species in dilated cells of the wood, probably for the retention of Cd in the roots by strong binding with Cd to thiol-containing ligands. A Cd hotspot in large, secreting channels of the branches suggested that mucilage may play a role in the transport of Cd within cacao trees. The leaves had local Cd enrichments in the parenchymatous tissues and displayed a higher Cd concentration in the mesophyll compared to the epidermis. These insights in Cd distribution and speciation underscore that Theobroma cacao L. develops original Cd detoxification strategies, strongly different from non-tolerant species such as cereals.
+-
+Number	ESRF24BL1030
+Author	Blommaert H., Sarret G., Chavez E., Smolders E., Vanderschueren R.
+Title	Cadmium speciation in cacao beans changes during a fermentation-like incubation
+Journal title	Food Chemistry
+Volume	431
+Pages	137068-1-137068-9
+Year	2024
+DOI	10.1016/j.foodchem.2023.137068
+Abstract	Cadmium (Cd) concentrations in cacao often exceed food limits. Recently, it was shown that cacao bean fermentation enhances Cd solubility, opening potential for Cd mitigation in cacao products. This study was set-up to identify changes in Cd speciation during fermentation. X-Ray absorption spectroscopy (XAS) complemented with speciation calculations, were used on samples collected from high and low Cd farms, that were subjected to a fermentation-like incubation that reached high temperatures (>45 °C) and acidic pH (<5). Incubation decreased nib Cd concentration up to a factor 1.5 and changed Cd complexation in high Cd beans from sulphur to oxygen ligands, likely due to pH changes. In beans with lower Cd concentrations, Cd was complexed before and after incubation with oxygen-ligands. A combination of pH changes and/or phytate breakdown may explain the migration of Cd outward from the nib. XAS and speciation calculations proved complimentary techniques and indicated similar speciation changes during fermentation.
+-
+Number	ESRF24BO1265
+Author	Bobrin V.A., Hackbarth H.G., Yao Y., Kundu D., Bedford N.M., Kuchel R.P., Zhang J., Corrigan N., Boyer C.
+Title	Design and 3D printing of polyacrylonitrile-derived nanostructured carbon architectures
+Journal title	Small Science
+Volume	4
+Pages	2300275-1-2300275-10
+Year	2024
+DOI	10.1002/smsc.202300275
+Keywords	3D PRINTING
+, NANOSTRUCTURED MATERIALS
+, POLYMERIZATION-INDUCED MICROPHASE
+, SEPARATION
+, SELF-ASSEMBLY
+, CHEMICAL-VAPOR-DEPOSITION
+, N-DOPED GRAPHENE
+, BLOCK-COPOLYMERS
+, OXYGEN
+, REDUCTION
+, RAFT POLYMERIZATION
+, POROUS NANOCARBONS
+, PHASE-SEPARATION
+, NITROGEN
+, IDENTIFICATION
+, ACRYLONITRILE
+Abstract	Nanostructured carbon materials with designer geometries are of great interest for a wide range of energy-based and environmental applications due to their tunable microstructure, which allows for optimized properties and performance, as well as their ability to be shaped in complex three-dimensional (3D) geometries suited for targeted applications. However, achieving a controllable way for preparing nanostructured carbon materials with precise macroscale control has proven to be challenging. Herein, a straightforward approach for 3D printing of nanostructured polyacrylonitrile (PAN)-derived carbon materials controlled by employing self-assembling resins in liquid crystal display printing is presented. The correlation between resin composition, printing parameters, and PAN thermal transformation conditions is identified using a combination of thermoanalytical and structural techniques. The nanostructured PAN materials are readily transformed into carbon with a voided microstructure while retaining the original macro-architecture of the 3D printed polymer precursor objects. The resulting carbon materials are electrically conductive and feature nitrogen active sites controlled by pyrolysis temperature. This method offers a simple way to produce nanostructured carbon-based materials with an arbitrary shape, presenting the possibility of advantageous characteristics for a range of potential applications in both the fields of energy and the environment. This study explores the synthesis of nanostructured carbon materials with customizable geometries for diverse applications in energy and the environment. A novel method for 3D printing polyacrylonitrile-derived carbon by employing self-assembling resins in liquid crystal display printing is reported. image (c) 2024 WILEY-VCH GmbH
+-
+Number	ESRF24BO1094
+Author	Bodnarchuk M.I., Feld L.G., Zhu C., Boehme S.C., Bertolotti F., Avaro J., Aebli M., Mir S.H., Masciocchi N., Erni R., Chakraborty S., Guagliardi A., Rainò G., Kovalenko M.V.
+Title	Colloid alaziridinium lead bromide quantum dots
+Journal title	ACS Nano
+Volume	18
+Pages	5684-5697
+Year	2024
+DOI	10.1021/acsnano.3c11579
+Abstract	The compositional engineering of lead-halide perovskite nanocrystals (NCs) via the A-site cation represents a lever to fine-tune their structural and electronic properties. However, the presently available chemical space remains minimal since, thus far, only three A-site cations have been reported to favor the formation of stable lead-halide perovskite NCs, i.e., Cs+, formamidinium (FA), and methylammonium (MA). Inspired by recent reports on bulk single crystals with aziridinium (AZ) as the A-site cation, we present a facile colloidal synthesis of AZPbBr3 NCs with a narrow size distribution and size tunability down to 4 nm, producing quantum dots (QDs) in the regime of strong quantum confinement. NMR and Raman spectroscopies confirm the stabilization of the AZ cations in the locally distorted cubic structure. AZPbBr3 QDs exhibit bright photoluminescence with quantum efficiencies of up to 80%. Stabilized with cationic and zwitterionic capping ligands, single AZPbBr3 QDs exhibit stable single-photon emission, which is another essential attribute of QDs. In particular, didodecyldimethylammonium bromide and 2-octyldodecyl-phosphoethanolamine ligands afford AZPbBr3 QDs with high spectral stability at both room and cryogenic temperatures, reduced blinking with a characteristic ON fraction larger than 85%, and high single-photon purity (g(2)(0) = 0.1), all comparable to the best-reported values for MAPbBr3 and FAPbBr3 QDs of the same size.The compositional engineering of lead-halide perovskite nanocrystals (NCs) via the A-site cation represents a lever to fine-tune their structural and electronic properties. However, the presently available chemical space remains minimal since, thus far, only three A-site cations have been reported to favor the formation of stable lead-halide perovskite NCs, i.e., Cs+, formamidinium (FA), and methylammonium (MA). Inspired by recent reports on bulk single crystals with aziridinium (AZ) as the A-site cation, we present a facile colloidal synthesis of AZPbBr3 NCs with a narrow size distribution and size tunability down to 4 nm, producing quantum dots (QDs) in the regime of strong quantum confinement. NMR and Raman spectroscopies confirm the stabilization of the AZ cations in the locally distorted cubic structure. AZPbBr3 QDs exhibit bright photoluminescence with quantum efficiencies of up to 80%. Stabilized with cationic and zwitterionic capping ligands, single AZPbBr3 QDs exhibit stable single-photon emission, which is another essential attribute of QDs. In particular, didodecyldimethylammonium bromide and 2-octyldodecyl-phosphoethanolamine ligands afford AZPbBr3 QDs with high spectral stability at both room and cryogenic temperatures, reduced blinking with a characteristic ON fraction larger than 85%, and high single-photon purity (g(2)(0) = 0.1), all comparable to the best-reported values for MAPbBr3 and FAPbBr3 QDs of the same size.
+-
+Number	ESRF24BO1201
+Author	Bollaert Q., Chassé M., Morin G., Baptiste B., Courtin A., Galoisy L., Landrot G., Quantin C., Calas G.
+Title	Atomic-scale environment of niobium in ore minerals as revealed by XANES and EXAFS at the Nb K-edge
+Journal title	European Journal of Mineralogy
+Volume	36
+Pages	55-72
+Year	2024
+DOI	10.5194/ejm-36-55-2024
+-
+Number	ESRF24BO294
+Author	Bolton R., Machelett M.M., Stubbs J., Axford D., Caramello N., Catapano L., Malý M., Rodrigues M.J., Cordery C., Tizzard G.J., MacMillan F., Engilberge S., von Stetten D., Tosha T., Sugimoto H., Worrall J.A.R., Webb J.S., Zubkov M., Coles S., Mathieu E., Steiner R.A., Murshudov G., Schrader T.E., Orville A.M., Royant A., Evans G., Hough M.A., Owen R.L., Tews I.
+Title	A redox switch allows binding of Fe(II) and Fe(III) ions in the cyanobacterial iron- binding protein FutA from Prochlorococcus
+Journal title	Proceedings of the National Academy of Sciences of the USA
+Volume	121
+Pages	e2308478121-1-e2308478121-6
+Year	2024
+DOI	10.1073/pnas.2308478121
+Keywords	METALLOPROTEIN
+, PROTEIN DYNAMICS
+, IRON
+, ROOM TEMPERATURE
+, CRYSTALLOGRAPHY
+, XFEL
+, PHOTOSYNTHETIC ELECTRON-TRANSPORT
+, SERIAL SYNCHROTRON
+, CRYSTALLOGRAPHY
+, IDIA
+, PHYTOPLANKTON
+, SUBUNIT
+, CLADES
+Abstract	The marine cyanobacterium Prochlorococcus is a main contributor to global photosynthesis, whilst being limited by iron availability. Cyanobacterial genomes generally encode two different types of FutA iron- binding proteins: periplasmic FutA2 ABC transporter subunits bind Fe(III), while cytosolic FutA1 binds Fe(II). Owing to their small size and their economized genome Prochlorococcus ecotypes typically possess a single futA gene. How the encoded FutA protein might bind different Fe oxidation states was previously unknown. Here, we use structural biology techniques at room temperature to probe the dynamic behavior of FutA. Neutron diffraction confirmed four negatively charged tyrosinates, that together with a neutral water molecule coordinate iron in trigonal bipyramidal geometry. Positioning of the positively charged Arg103 side chain in the second coordination shell yields an overall charge- neutral Fe(III) binding state in structures determined by neutron diffraction and serial femtosecond crystallography. Conventional rotation X - ray crystallography using a home source revealed X- ray- induced photoreduction of the iron center with observation of the Fe(II) binding state; here, an additional positioning of the Arg203 side chain in the second coordination shell maintained an overall charge neutral Fe(II) binding site. Dose series using serial synchrotron crystallography and an XFEL X - ray pump-probe approach capture the transition between Fe(III) and Fe(II) states, revealing how Arg203 operates as a switch to accommodate the different iron oxidation states. This switching ability of the Prochlorococcus FutA protein may reflect ecological adaptation by genome streamlining and loss of specialized FutA proteins.
+-
+Number	ESRF24BO227
+Author	Borgi S., Raeder T.M., Carlsen M.A., Detlefs C., Winther G., Poulsen H.F.
+Title	Simulations of dislocation contrast in dark-field X-ray microscopy
+Journal title	Journal of Applied Crystallography
+Volume	57
+Pages	358-368
+Year	2024
+DOI	10.1107/S1600576724001183
+Abstract	Dark-field X-ray microscopy (DFXM) is a full-field imaging technique that non-destructively maps the structure and local strain inside deeply embedded crystalline elements in three dimensions. In DFXM, an objective lens is placed along the diffracted beam to generate a magnified projection image of the local diffracted volume. This work explores contrast methods and optimizes the DFXM setup specifically for the case of mapping dislocations. Forward projections of detector images are generated using two complementary simulation tools based on geometrical optics and wavefront propagation, respectively. Weak and strong beam contrast and the mapping of strain components are studied. The feasibility of observing dislocations in a wall is elucidated as a function of the distance between neighbouring dislocations and the spatial resolution. Dislocation studies should be feasible with energy band widths of 10−2, of relevance for fourth-generation synchrotron and X-ray free-electron laser sources.
+-
+Number	ESRF24BO1230
+Author	Bories P., Rima J., Tranier S., Marcoux J., Grimoire Y., Tomaszczyk M., Launay A., Fata K., Marrakchi H., Burlet-Schiltz O., Mourey L., Ducoux-Petit M., Bardou F., Bon C., Quémard A.
+Title	HadBD dehydratase from Mycobacterium tuberculosis fatty acid synthase type II: A singular structure for a unique function
+Journal title	Protein Science
+Volume	33
+Pages	e4964-1-e4964-19
+Year	2024
+DOI	10.1002/pro.4964
+Keywords	(3R)-HYDROXYACYL-ACP DEHYDRATASE HADBD
+, CATALYTIC SUBUNIT
+, CRYSTAL
+, STRUCTURE
+, FATTY ACID SYNTHASE TYPE II SYSTEM
+, HOTDOG HELIX
+, MYCOLIC ACIDS
+, STRUCTURE-FUNCTION
+, RELATIONSHIPS
+, SUBSTRATE-BINDING SUBUNIT
+, ULTRA-LONG-CHAIN SUBSTRATES
+, ENOYL-COA HYDRATASE
+, CRYSTAL-STRUCTURE
+, (null)
+, HADAB COMPLEX
+, BIOSYNTHESIS
+, SPECIFICITY
+, SCATTERING
+, VIRULENCE
+, AUTOPROC
+, INSIGHTS
+Abstract	Worldwide, tuberculosis is the second leading infectious killer and multidrug resistance severely hampers disease control. Mycolic acids are a unique category of lipids that are essential for viability, virulence, and persistence of the causative agent, Mycobacterium tuberculosis (Mtb). Therefore, enzymes involved in mycolic acid biosynthesis represent an important class of drug targets. We previously showed that the (3R)-hydroxyacyl-ACP dehydratase (HAD) protein HadD is dedicated mainly to the production of ketomycolic acids and plays a determinant role in Mtb biofilm formation and virulence. Here, we discovered that HAD activity requires the formation of a tight heterotetramer between HadD and HadB, a HAD unit encoded by a distinct chromosomal region. Using biochemical, structural, and cell-based analyses, we showed that HadB is the catalytic subunit, whereas HadD is involved in substrate binding. Based on HadBDMtb crystal structure and substrate-bound models, we identified determinants of the ultra-long-chain lipid substrate specificity and revealed details of structure-function relationship. HadBDMtb unique function is partly due to a wider opening and a higher flexibility of the substrate-binding crevice in HadD, as well as the drastically truncated central alpha-helix of HadD hotdog fold, a feature described for the first time in a HAD enzyme. Taken together, our study shows that HadBDMtb, and not HadD alone, is the biologically relevant functional unit. These results have important implications for designing innovative antivirulence molecules to fight tuberculosis, as they suggest that the target to consider is not an isolated subunit, but the whole HadBD complex.
+-
+Number	ESRF24BO452
+Author	Bosak A., Chaney D.A.
+Title	High pressure phonon spectroscopy at ESRF: ID28 beamline
+Journal title	High Pressure Research
+Volume	44
+Pages	361-371
+Year	2024
+DOI	10.1080/08957959.2024.2363929
+Abstract	The ID28 beamline (ESRF) hosts the only inelastic x-ray scattering spectrometer in Europe and is devoted to the study of phonons. As part of a rich portfolio of user activities high-pressure research represents a vital segment of the beamline’s research portfolio, constituting approximately 30% of allocated beamtime, with users benefiting from both the extreme brightness and tight focusing capabilities of the European synchrotron. Here we present the current status of lattice dynamics studies under (quasi)hydrostatic pressure which have become close-to-routine measurements, detail a selection of example studies and briefly discuss potential future advances.
+-
+Number	ESRF24BO1421
+Author	Botova M., Camacho-Zarco A.R., Tognetti J., Mamigonian Bessa L., Guseva S., Mikkola E., Salvi N., Maurin D., Herrmann T., Blackledge M.
+Title	A specific phosphorylation-dependent conformational switch in SARS-CoV-2 nucleocapsid protein inhibits RNA binding
+Journal title	Science Advances
+Volume	10
+Pages	eaax2323-1-eaax2323-15
+Year	2024
+DOI	10.1126/sciadv.aax2323
+Abstract	The nucleocapsid protein of severe acute respiratory syndrome coronavirus 2 encapsidates the viral genome and is essential for viral function. The central disordered domain comprises a serine-arginine–rich (SR) region that is hyperphosphorylated in infected cells. This modification regulates function, although mechanistic details remain unknown. We use nuclear magnetic resonance to follow structural changes occurring during hyperphosphorylation by serine arginine protein kinase 1, glycogen synthase kinase 3, and casein kinase 1, that abolishes interaction with RNA. When eight approximately uniformly distributed sites have been phosphorylated, the SR domain binds the same interface as single-stranded RNA, resulting in complete inhibition of RNA binding. Phosphorylation by protein kinase A does not prevent RNA binding, indicating that the pattern resulting from physiologically relevant kinases is specific for inhibition. Long-range contacts between the RNA binding, linker, and dimerization domains are abrogated, phenomena possibly related to genome packaging and unpackaging. This study provides insight into the recruitment of specific host kinases to regulate viral function.
+-
+Number	ESRF24BO2032
+Author	Bouita M.
+Title	Étude des propriétés et des lois de comportement mécaniques à différentes échelles de polyesters par WAXS et spectroscopie Raman in situ
+Abstract	L'un des objectifs principaux de la thèse a été d'établir des corrélations étroites entre le comportement mécanique réel des échantillons à l'échelle macroscopique locale et les champs de contrainte et de déformation développés à l'échelle de la microstructure dans le poly(téréphtalate d'éthylène) (PET) et du poly(2,5-furandicarboxylate d'éthylène) (PEF). Grâce à l'ensemble des données WAXS et Raman obtenues de manière in situ à un essai de traction uniaxiale, les micromécanismes de déformation ont été identifiés et mesurés en temps réel avec la déformation et la contrainte locales et la contribution de chacune des phases du polymère (amorphe, cristalline) a été décolérée en considérant le rôle des molécules de lien et finalement mise en relation avec le comportement macroscopique. Ensuite, deux protocoles identifiés et trouvés dans la littérature seront appliqués. Le premier est connu par la méthode sin2ψ. Elle se base sur des clichés 2D WAXS pour construire le tenseur de déformation et de contrainte dans la phase cristalline. La deuxième relève de la théorie de Grüneisen et utilise les spectres Raman. En partant des mesures de décalage en position de bandes de diffusion particulière, elle donne accès au tenseur des déformations dans les phases amorphe et cristalline du polymère. Par ailleurs, l'étude du comportement thermique des deux polymères a été réalisée en utilisant la calorimétrie différentielle à balayage (DSC) tout en effectuant simultanément des acquisitions Raman. L'analyse de certaines zones spectrales a permis de déterminer précisément le taux de cristallinité. Ces résultats ont ensuite été comparés à ceux obtenus par DSC et par WAXS. En outre, ces analyses ont rendu possible le suivi des changements conformationnels des polymères au cours des cycles thermiques, en particulier ceux associés aux transitions microstructurales, comme la transition vitreuse, la cristallisation et la fusion. Les critères Raman de cristallinité obtenus ont par la suite été appliqués aux essais de traction. En mettant en corrélation leur évolution avec le taux d'orientation, il a été possible de détecter et de quantifier les mésophases. Ces dernières constituent un état intermédiaire essentiel entre les états amorphe et cristallin des polymères lors du processus de cristallisation induite sous contrainte, et leur présence influe de manière directe le comportement mécanique du polymère.
+-
+Number	ESRF24BO1280
+Author	Bourne Y., Sulzenbacher G., Chabaud L., Aráoz R., Radic Z., Conrod S., Taylor P., Guillou C., Molgó J., Marchot P.
+Title	the cyclic imine core common to the marine macrocyclic toxins is sufficient to dictate nicotinic acetylcholine receptor antagonism
+Journal title	Marine Drugs
+Volume	22
+Pages	149-1-149-27
+Year	2024
+DOI	10.3390/md22040149
+Keywords	ACETYLCHOLINE-BINDING PROTEIN
+, BINDING AFFINITY
+, COMPETITIVE ANTAGONISM
+, CRYSTAL STRUCTURE
+, CYCLIC IMINE
+, ELECTROPHYSIOLOGY
+, NICOTINIC
+, ACETYLCHOLINE RECEPTOR
+, PHARMACOPHORE
+, RECEPTOR SUBTYPE SELECTIVITY
+, SPIROIMINE
+, ACID ESTER METABOLITES
+, DINOFLAGELLATE ALEXANDRIUM-OSTENFELDII
+, BINDING-PROTEIN
+, STRUCTURAL DETERMINANTS
+, SPIROLIDE-C
+, CAUSATIVE
+, ORGANISM
+, CRYSTAL-STRUCTURE
+, NEURONAL ALPHA-7
+, PTERIATOXIN-A
+, NEW-ZEALAND
+Abstract	Macrocyclic imine phycotoxins are an emerging class of chemical compounds associated with harmful algal blooms and shellfish toxicity. Earlier binding and electrophysiology experiments on nAChR subtypes and their soluble AChBP surrogates evidenced common trends for substantial antagonism, binding affinities, and receptor-subtype selectivity. Earlier, complementary crystal structures of AChBP complexes showed that common determinants within the binding nest at each subunit interface confer high-affinity toxin binding, while distinctive determinants from the flexible loop C, and either capping the nest or extending toward peripheral subsites, dictate broad versus narrow receptor subtype selectivity. From these data, small spiroimine enantiomers mimicking the functional core motif of phycotoxins were chemically synthesized and characterized. Voltage-clamp analyses involving three nAChR subtypes revealed preserved antagonism for both enantiomers, despite lower subtype specificity and binding affinities associated with faster reversibility compared with their macrocyclic relatives. Binding and structural analyses involving two AChBPs pointed to modest affinities and positional variability of the spiroimines, along with a range of AChBP loop-C conformations denoting a prevalence of antagonistic properties. These data highlight the major contribution of the spiroimine core to binding within the nAChR nest and confirm the need for an extended interaction network as established by the macrocyclic toxins to define high affinities and marked subtype specificity. This study identifies a minimal set of functional pharmacophores and binding determinants as templates for designing new antagonists targeting disease-associated nAChR subtypes.
+-
+Number	ESRF24BO1289
+Author	Boverio A., Jamil N., Mannucci B., Mascotti M.L., Fraaije M.W., Mattevi A.
+Title	Structure, mechanism, and evolution of the last step in vitamin C biosynthesis
+Journal title	Nature Communications
+Volume	15
+Pages	4158-1-4158-10
+Year	2024
+DOI	10.1038/s41467-024-48410-1
+Abstract	Photosynthetic organisms, fungi, and animals comprise distinct pathways for vitamin C biosynthesis. Besides this diversity, the final biosynthetic step consistently involves an oxidation reaction carried out by the aldonolactone oxidoreductases. Here, we study the origin and evolution of the diversified activities and substrate preferences featured by these flavoenzymes using molecular phylogeny, kinetics, mutagenesis, and crystallographic experiments. We find clear evidence that they share a common ancestor. A flavin-interacting amino acid modulates the reactivity with the electron acceptors, including oxygen, and determines whether an enzyme functions as an oxidase or a dehydrogenase. We show that a few side chains in the catalytic cavity impart the reaction stereoselectivity. Ancestral sequence reconstruction outlines how these critical positions were affixed to specific amino acids along the evolution of the major eukaryotic clades. During Eukarya evolution, the aldonolactone oxidoreductases adapted to the varying metabolic demands while retaining their overarching vitamin C-generating function.
+-
+Number	ESRF24BR1456
+Author	Braik T., Mangelinck-Noël N., Reinhart G., Debierre J.M.
+Title	Interplay between facetting and confinement in directional solidification of silicon: A direct comparison between experiments and phase-field simulations
+Journal title	Journal of Crystal Growth
+Volume	626
+Pages	127458-1-127458-9
+Year	2024
+DOI	10.1016/j.jcrysgro.2023.127458
+Keywords	TOPOGRAPHY
+, BRAGG DIFFRACTION
+, DIFFRACTION IMAGING
+, SIMULATION
+, SINGLE CRYSTAL
+, SINGLE CRYSTAL X-RAY DIFFRACTION
+Abstract	We combine the analysis of experiments based on in situ X-ray imaging and phase-field simulations to get insight into the interplay between faceting and confinement effects in thin silicon samples during directional solidification from a monocrystalline seed. The phase-field model is parametrized by available experimental results, especially regarding the anisotropy functions for the surface energy and for the kinetic attachment coefficient. In the present work, a method is proposed to extrapolate 2D fully quantitative simulations results to 3D thin sample geometry. Two simple seed orientations along the and crystal directions are considered. For direction, it is shown that confinement effects are weak so 2D simulations can be readily compared to the experiments. For direction, much stronger confinement effects are identified and characterized by a confinement factor that is estimated from phase-field simulations of thin 3D systems. For both directions, the length of the side facets is shown to increase with the solidification velocity and an analytical expression including the confinement factor is obtained for the law relating both quantities. A very quantitative experiment-simulation agreement is obtained in each case.
+-
