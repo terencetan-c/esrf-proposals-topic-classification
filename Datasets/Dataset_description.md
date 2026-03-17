@@ -13,7 +13,7 @@ Checkpoint data:
     + Subject (ESRF Scientific Discipline)
     + Instrument (ESRF beamlines)
 
-* Proposals_ESRF_base: list of ESRF proposals with the following metadata:
+* Proposals_ESRF_base.json: list of ESRF proposals with the following metadata:
     + Proposal number
     + Summary (Aggregated summaries/abstracts from associated experiment sessions; there is a many-to-one relation between sessions and proposals, i.e. 'session_esrf_valid_with_sub' and 'Proposals_ESRF_base'.)
     + Title (aggregated in a similar manner to Summary)
