@@ -15,7 +15,7 @@ Checkpoint data:
 
 * Proposals_ESRF_base: list of ESRF proposals with the following metadata:
     + Proposal number
-    + Summary (Aggregated summaries/abstracts from associated experiment sessions; there is a many-to-one relation between 'session_esrf_valid_with_sub' and 'Proposals_ESRF_base'.)
+    + Summary (Aggregated summaries/abstracts from associated experiment sessions; there is a many-to-one relation between sessions and proposals, i.e. 'session_esrf_valid_with_sub' and 'Proposals_ESRF_base'.)
     + Title (aggregated in a similar manner to Summary)
     + Subject (ESRF Scientific Discipline)
     + Instrument (ESRF beamlines)
@@ -125,7 +125,18 @@ Predictions:
          - Topic score (model's confidence in the prediction)
 
 
+Evaluation_exercise:
 
+* proposals_for_validation.json: 209 proposals selected for the evaluation exercise; a filtered version of 'Proposals_ESRF_Predictions_PDF_metadata_only.json'
+
+* results_spreadsheet.xlsx: a spreadsheet of the 209 proposals with the topic predictions and reviewer evaluations. Each row:
+    + Proposal number
+    + Scientific Discipline
+    + Reviewer
+    + Label (topic ID and label)
+    + Type (Predicted Topic 1/2/3, Predicted Subfield 1/2/3, Predicted Field 1/2/3)
+    + Evaluation ('Relevant', 'Unclear', 'Not relevant')
+    + Comments
 
 ## Summary of the main files
 * Publications_ESRF.csv: All publications collected by the ESRF. Includes publications that resulted from experiments done at the ESRF.
@@ -141,3 +152,5 @@ Predictions:
 * Proposals_ESRF_Predictions_publications_only.json: Proposals with publications and corresponding topic predictions.
 
 * Proposals_ESRF_Predictions_combined_all.json: Proposals with PDF metadata and publications, includes topic predictions with PDF metadata only, publications only, and combined PDF metadata and publications.
+
+* results_spreadsheet.xlsx: Set of proposals with the topic predictions and reviewer evaluations.
