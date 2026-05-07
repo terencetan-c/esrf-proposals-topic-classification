@@ -19,7 +19,7 @@ from sentence_transformers import SentenceTransformer
 import re
 
 # Define the path
-prefix = '{insert pathname to model artifacts}'     # <--- INSERT YOUR PATHNAME HERE
+prefix = '{insert path here}'     # <--- INSERT YOUR PATHNAME HERE
 model_path = os.path.join(prefix, 'topic_classifier_v1_artifacts')
 
 # Load the needed files
